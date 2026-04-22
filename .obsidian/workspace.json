@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Session 01 - Crypt of the Fallen Giants"
             }
           }
         ],
@@ -212,10 +212,10 @@
   },
   "active": "4a4691a8abf0c77c",
   "lastOpenFiles": [
+    "README.md",
     "Resources.md",
     "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
     "PCs/Tycho.md",
-    "README.md",
     "PCs/Taliesin.md",
     "PCs/Rowan.md",
     "PCs/Kiirian.md",

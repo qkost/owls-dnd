@@ -69,7 +69,7 @@ From John:
 		- Other giants not excplicitly on above list
 			- Fog -- on the same level as clouds
 - Picked a locked chest in a storage room -- see loot
-- Decided to continue into the 
+- Decided to continue into the crypt to see if something here is possibly contributing to the blight in the valley
 
 ## Loot
 
