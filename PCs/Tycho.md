@@ -6,23 +6,23 @@ L1 Artificer
 
 ## People
 
-- Khad "The Fat Fish" Vane
+- [[Khad "The Fat Fish" Vane]]
 - Gunther - shopkeep
 - Old party
 	- Brytta
 	- Jannus
-	- Gryff - shoppkeep Harper agent in Neverwinter
-- Claugiyliamatar - Ancient Green Dragon who killed party
+	- [[Gryff]] - shopkeep [[Harpers]] agent in [[Neverwinter]]
+- [[Claugiyliamatar]] - Ancient Green Dragon who killed party
 
 ## Places
 
-- Tycho's Tantalizing Trickets and Other Tomfoolery
+- Tycho's Tantalizing Trinkets and Other Tomfoolery
 - Neverwinter
 - 
 
 ## Factions
 
-- Zhentarim
+- [[Zhentarim]]
 # Backstory
 
 
@@ -40,13 +40,13 @@ Ideals:
 - Likes to bring delight and wonder into people's lives through his illusions and trinkets
 
 Bonds:
-- Has a debt to pay to the Zhentarim if he wants his shop back. His contact with the Zhentarim is the ruthless Khad "The Fat Fish" Vane
-- His young shop assistant, Gunther, is trying to keep the place running while the Zhentarim garnishes all of the sales
+- Has a debt to pay to the [[Zhentarim]] if he wants his shop back. His contact with the [[Zhentarim]] is the ruthless [[Khad "The Fat Fish" Vane]]
+- His young shop assistant, Gunther, is trying to keep the place running while the [[Zhentarim]] garnishes all of the sales
 - Lost adventuring party which he presumes are dead but ultimately doesn't know what happened to them:
-	- Bryyta, the Elven Sorcerer
-	- Jaanus, the Halfling Bard
-	- Gryff, the veteran Fighter who owns a tea shop front in Neverwinter and is a contact with the Harpers
-- Has the enmity of the Ancient Green Dragon, Claugiyliamatar. His Ring of Spell Storing is from the dragon's horde.
+	- [[Bryyta]], the Elven Sorcerer
+	- [[Jaanus]], the Halfling Bard
+	- [[Gryff]], the veteran Fighter who owns a tea shop front in Neverwinter and is a contact with the [[Harpers]]
+- Has the enmity of the Ancient Green Dragon, [[Claugiyliamatar]]. His Ring of Spell Storing is from the dragon's horde.
 
 Flaws:
 - After losing his last adventuring party, Tycho can't face that happening again and will risk himself to prevent it even if unwise

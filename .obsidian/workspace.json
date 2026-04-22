@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
+                "file": "PCs/Tycho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 01 - Crypt of the Fallen Giants"
+              "title": "Tycho"
+            }
+          },
+          {
+            "id": "4a4691a8abf0c77c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,15 +210,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c5abcfa2217c865",
+  "active": "4a4691a8abf0c77c",
   "lastOpenFiles": [
     "PCs/Tycho.md",
+    "README.md.md",
     "PCs/Taliesin.md",
     "PCs/Rowan.md",
     "PCs/Kiirian.md",
+    "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
     "Archive/Old Backstory Ideas.md",
     "Archive",
-    "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
     "Welcome.md",
     "Resources.md",
     "Templates/Session Notes.md",
