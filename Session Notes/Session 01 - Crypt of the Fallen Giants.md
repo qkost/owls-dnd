@@ -48,6 +48,7 @@ From John:
 		- Paralyzed condition
 	- Two more zombies came
 	- [[Tycho]] set up wall and everybody ran away
+- Writing in giant on the wall had the name [[Ylgmeskr the Farseer]]
 - The giants caught up in the next room
 	- [[Tycho]] fire-balled (from ring of spell storing)
 	- [[Taliesin]] cast moon beam and tore apart with claws
