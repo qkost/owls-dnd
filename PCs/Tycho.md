@@ -1,4 +1,6 @@
 
+![[tycho_v2.png]]
+
 L9 Wizard
 L1 Artificer
 
