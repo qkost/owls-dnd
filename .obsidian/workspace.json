@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 02 -.md",
+                "file": "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 02 -"
+              "title": "Session 01 - Crypt of the Fallen Giants"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Kiirian.md",
+                "file": "PCs/Taliesin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kiirian"
+              "title": "Taliesin"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,12 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "959f0cbe935ad734",
+  "active": "82c7f7851ec5ec3e",
   "lastOpenFiles": [
+    "Session Notes/Session 02 -.md",
     "PCs/Taliesin.md",
     "PCs/Rowan.md",
     "PCs/Kiirian.md",
-    "Session Notes/Session 02 -.md",
     "PCs/Tycho.md",
     "Attachments/tycho_v2.png",
     "Attachments/taliesin.png",
