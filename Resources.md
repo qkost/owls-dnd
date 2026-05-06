@@ -40,7 +40,7 @@
 ## Ring of Spell Storing
 
 - 
-- (2) Cure Wounds
+- 
 ## Consumables
 
 - Item 1
