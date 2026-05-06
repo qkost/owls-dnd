@@ -1,5 +1,5 @@
 ```
-date:: 2026-XX-XX
+date:: 2026-05-05
 summary:: ""
 ```
 
@@ -12,3 +12,8 @@ summary:: ""
 ## Recap
 
 ## Notes
+
+- Explored room to the north
+	- Three lines of runes with frost/fire/cloud(?) giant statues
+	- Protective wall spells
+	- Dias with runes on the 

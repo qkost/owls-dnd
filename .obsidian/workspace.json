@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "ffe5b8a9855f5dec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 02 - The Mystbringer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 02 - The Mystbringer"
+            }
+          },
+          {
             "id": "959f0cbe935ad734",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,10 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e9db4d106bc129e",
+  "active": "ffe5b8a9855f5dec",
   "lastOpenFiles": [
+    "Resources.md",
     "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
-    "Session Notes/Session 02 -.md",
+    "Session Notes/Session 02 - The Mystbringer.md",
     "PCs/Taliesin.md",
     "PCs/Rowan.md",
     "PCs/Kiirian.md",
@@ -252,7 +267,6 @@
     "Attachments/rowan.png",
     "Attachments",
     "Pasted image 20260427194344.png",
-    "Resources.md",
     "Templates/Session Notes.md",
     "README.md",
     "Archive/Old Backstory Ideas.md",
