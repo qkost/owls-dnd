@@ -48,3 +48,5 @@ summary:: ""
 	- Said that he has an unlimited number of giant thralls at his disposal
 	- I attacked him with summon fey when he was about to crush the little guy
 - Left off with us backed behind the traps with two giants guarding our escape
+
+![[giant_battle.png]]
