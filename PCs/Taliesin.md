@@ -3,5 +3,6 @@
 Player: Nolan
 
 - Wood Elf
-- L10 Druid?
+- L10 Druid
+- Circle of the Moon
 

@@ -5,4 +5,4 @@ Player: Brittany
 
 - Human
 - Fighter
-- 
+- Battle Master

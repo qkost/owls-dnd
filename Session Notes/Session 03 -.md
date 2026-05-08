@@ -21,7 +21,9 @@ summary:: ""
 		- [ ] Don't need line of sight for either moon beam or darkness
 		- [ ] See below for wall of force/darkness setup
 		- [ ] Order
-			- [ ] Can't have a big gap after darkness before wall of force -- swap order to be just af
+			- [ ] Can't have a big gap after darkness before wall of force
+				- [ ] Swap order to be closest to [[Kiirian]] as possible
+				- [ ] Preferably just before and hold action
 			- [ ] Other order doesn't matter?
 
 

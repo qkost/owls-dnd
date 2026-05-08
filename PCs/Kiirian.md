@@ -1,5 +1,5 @@
 ![[kiirian.png]]
 
 - Player: Dan?
-- L10 Fighter?
-- Eldritch knif
+- L10 Fighter
+- Eldritch knight
