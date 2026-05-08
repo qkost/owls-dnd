@@ -13,6 +13,7 @@ summary:: ""
 
 ## Notes
 
+- Language of giants == "Johtan"?
 - Explored room to the north
 	- Three lines of runes with frost/fire/cloud(?) giant statues
 	- Protective wall spells
@@ -25,14 +26,25 @@ summary:: ""
 			- Went against [[Ordening]]
 		- This crypt is a tomb of those who sealed away (battled against) [[Ylgmeskr the Farseer]]
 - Opened the dais with writing on it
-	- A cloth that can grant blindsight to the weilder
+	- A cloth that can grant blindsight to the wielder
 	- Requires attunement
 	- Name???
+- There are more artifacts
+	- Potentially within this temple
+	- Potentially at other temples within the valley
+	- Unclear the number of artifacts
 - Battle against a fog giant
+	- [[Taliesin]] had sweet Conjure Elemental spell cast
 	- Has misty step
 	- Can cast fog cloud
 	- Multiattack
 	- +7 WIS Save
 - A non-undead fog giant came in -- [[Morkaryt, the Mystbringer]]
+	- Called us interlopers
+	- Accompanied by 
 	- Fog coming from him
-	- Said that the winners write the history and that you can't trust what you read h
+	- Said that the winners write the history and that you can't trust what you read here
+	- Dispelled a 5th level spell (Conjure Elemental)
+	- Said that he has an unlimited number of giant thralls at his disposal
+	- I attacked him with summon fey when he was about to crush the little guy
+- Left off with us backed behind the traps with two giants guarding our escape
