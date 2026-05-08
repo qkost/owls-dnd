@@ -4,7 +4,8 @@ summary:: ""
 ```
 
 ## TODO
-- [ ] Apologize for communication error
+- [x] How to spell [[Morkaryt, the Mystbringer]]
+- [x] Apologize for communication error
 - [ ] Name of the magic blindfold?
 - [ ] Ideas for getting out of pickle
 	- [ ] Dimension Door - two people still need to get out
@@ -18,7 +19,13 @@ summary:: ""
 		- [ ] Might need moon beam to do damage
 		- [ ] Darkness range is 60 feet, so they need to get closer
 		- [ ] Don't need line of sight for either moon beam or darkness
-- [x] How to spell [[Morkaryt, the Mystbringer]]
+		- [ ] See below for wall of force/darkness setup
+		- [ ] Order
+			- [ ] Can't have a big gap after darkness before wall of force -- swap order to be just af
+			- [ ] Other order doesn't matter?
+
+
+![[wall_of_force_darkness.png]]
 ## Recap
 
 - Still concentrating on Summon Fey
