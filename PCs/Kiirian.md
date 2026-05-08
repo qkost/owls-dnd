@@ -2,3 +2,4 @@
 
 - Player: Dan?
 - L10 Fighter?
+- Eldritch knif
