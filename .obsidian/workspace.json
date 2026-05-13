@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "381b3d576a7fac99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Kiirian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kiirian"
+            }
+          },
+          {
             "id": "035a1cd02123b234",
             "type": "leaf",
             "state": {
@@ -211,13 +225,13 @@
   },
   "active": "eb9ba05a7a76a74d",
   "lastOpenFiles": [
-    "Session Notes/Session 03 -.md",
     "PCs/Kiirian.md",
+    "Session Notes/Session 02 - The Mystbringer.md",
+    "Session Notes/Session 03 -.md",
     "PCs/Taliesin.md",
     "PCs/Rowan.md",
     "Attachments/kiirian.png",
     "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
-    "Session Notes/Session 02 - The Mystbringer.md",
     "Attachments/wall_of_force_darkness.png",
     "Attachments/giant_battle.png",
     "Untitled",
