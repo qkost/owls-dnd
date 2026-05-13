@@ -38,7 +38,7 @@ summary:: "The party defeated the two guard zombies left by Morkaryt, the Mystbr
 	- [[Tycho]] cast wall of force to contain the giants, but the cloud giant was able to misty step out. The frost giant was permanently stuck to get immolated by [[Taliesin]]'s moon beam
 	- [[Rowan]] crushed the cloud giant with multiple crits, but took some good hits herself
 - [[Taliesin]], in tiger form, picked a difficult lock (even without opposable thumbs)
-- Main chamber with wards
+- Main chamber with wards (picture below)
 	- Four giants with hands outstretched
 		- Northwest: Cloud giant
 			- Wearing [[Blindfold of Blindsight]]
@@ -50,8 +50,21 @@ summary:: "The party defeated the two guard zombies left by Morkaryt, the Mystbr
 			- Wearing **Ring**
 			- Sigil deactivated
 		- Southwest: Fire giant
+			- Wearing a helmet
 			- Sigil deactivated
-	- 
+	- Statue of [[Ylgmeskr the Farseer]] on the south
+		- Seems the giants who built this tomb have a respect/reverence for their foes who are buried here
+	- Door to the north is closed and locked by the four ward -- only one ward remains
+- Explored to the Northeast and found the storm giant wand
+	- Passed wind wall rune (similar to wall runes protecting blind fold)
+- Snuck past frost giant zombie and got to entrace
+- Realized that the helmet from last time was one of the magic items and mended the horn back on
+- Created an illusion to lure the frost giant zombie away from the hallway it was patrolling
+- Found the frost giant's ring
+	- Found a pile of statue hands
+	- Placed the frost giant hand from the pile on the "Han Solo in Carbonite" statue on the wall
+	- Got the ring
+- Cast Divination and found that [[Morkaryt, the Mystbringer]] will not deactivate the last rune within the next 1-
 
 
 ![[chamber_with_giant_wards.png]]
