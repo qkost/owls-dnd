@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "Session 03 -"
             }
-          },
-          {
-            "id": "e3e5df66208fe5b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Kiirian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kiirian"
-            }
-          },
-          {
-            "id": "376d6c07fc53f51b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Kiirian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kiirian"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "376d6c07fc53f51b",
+  "active": "035a1cd02123b234",
   "lastOpenFiles": [
-    "PCs/Taliesin.md",
     "PCs/Kiirian.md",
+    "PCs/Taliesin.md",
     "Session Notes/Session 03 -.md",
     "PCs/Rowan.md",
     "Attachments/kiirian.png",
