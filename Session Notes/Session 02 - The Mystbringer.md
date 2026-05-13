@@ -1,6 +1,6 @@
 ```
 date:: 2026-05-05
-summary:: ""
+summary:: "The party explores more of the tomb and finds a large horn in a chest as well as a blindfold protected by several protective wall runes. They are then cornered by Morkaryt, the Mystbringer who Tycho antagonizes. The party is then left with a guard of two zombie giants in a standoff."
 ```
 
 ## TODO
