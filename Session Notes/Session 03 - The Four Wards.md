@@ -1,6 +1,6 @@
 ```
 date:: 2026-05-12
-summary:: ""
+summary:: "The party defeated the two guard zombies left by Morkaryt, the Mystbringer, with some brain and brawn and then explored the rest of the temple. They found a central chamber with four wards locking a door presumably to Ylgmesr, the Farseer's tomb. The statues emitting the wards each d"
 ```
 
 ## TODO
