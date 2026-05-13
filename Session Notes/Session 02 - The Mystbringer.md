@@ -17,6 +17,9 @@ summary:: ""
 - Explored room to the north
 	- Three lines of runes with frost/fire/cloud(?) giant statues
 	- Protective wall spells
+		- Fire
+		- Ice
+		- Lightning
 	- Dias with runes on the far side
 		- Written in giant
 		- Inside is an artifact used to seal away a great and powerful giant -- [[Ylgmeskr the Farseer]] - a Fog Giant
