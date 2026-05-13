@@ -55,6 +55,11 @@ summary:: "The party defeated the two guard zombies left by Morkaryt, the Mystbr
 	- Statue of [[Ylgmeskr the Farseer]] on the south
 		- Seems the giants who built this tomb have a respect/reverence for their foes who are buried here
 	- Door to the north is closed and locked by the four ward -- only one ward remains
+- Tomb locations
+	- Frost: base of mountain
+	- Fire: Where the party saw the giants leave the tomb
+	- Cloud: eastern end of the valley
+	- Storm: middle of frozen lake
 - Explored to the Northeast and found the storm giant wand
 	- Passed wind wall rune (similar to wall runes protecting blind fold)
 - Snuck past frost giant zombie and got to entrace
@@ -64,7 +69,9 @@ summary:: "The party defeated the two guard zombies left by Morkaryt, the Mystbr
 	- Found a pile of statue hands
 	- Placed the frost giant hand from the pile on the "Han Solo in Carbonite" statue on the wall
 	- Got the ring
-- Cast Divination and found that [[Morkaryt, the Mystbringer]] will not deactivate the last rune within the next 1-
+- Cast Divination and found that [[Morkaryt, the Mystbringer]] will not deactivate the last rune within the next 10 hours --> decided it was safe to long rest
+- Left the tomb and long rested
+- Leveled up to 11
 
 
 ![[chamber_with_giant_wards.png]]
