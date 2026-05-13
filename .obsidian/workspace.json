@@ -35,8 +35,7 @@
               "title": "Session 03 - The Four Wards"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3a581d7a5c6ce4c1",
@@ -55,8 +54,21 @@
               "icon": "lucide-file",
               "title": "Session 02 - The Mystbringer"
             }
+          },
+          {
+            "id": "7e403ddc123b46f8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/chamber_with_giant_wards.png"
+              },
+              "icon": "lucide-image",
+              "title": "chamber_with_giant_wards"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c76f6e21d08317ef",
+  "active": "eb9ba05a7a76a74d",
   "lastOpenFiles": [
-    "Session Notes/Session 02 - The Mystbringer.md",
+    "Attachments/chamber_with_giant_wards.png",
     "Session Notes/Session 03 - The Four Wards.md",
+    "Session Notes/Session 02 - The Mystbringer.md",
     "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
     "Resources.md",
     "PCs/Kiirian.md",

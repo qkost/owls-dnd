@@ -34,6 +34,24 @@ summary:: "The party defeated the two guard zombies left by Morkaryt, the Mystbr
 
 ## Notes
 
-- Fight with two giants (clout + frost giant zombies)
+- Fight with two giants (cloud + frost giant zombies)
 	- [[Tycho]] cast wall of force to contain the giants, but the cloud giant was able to misty step out. The frost giant was permanently stuck to get immolated by [[Taliesin]]'s moon beam
-	- [[Rowan]] crushed the cloud giant with multiple crits
+	- [[Rowan]] crushed the cloud giant with multiple crits, but took some good hits herself
+- [[Taliesin]], in tiger form, picked a difficult lock (even without opposable thumbs)
+- Main chamber with wards
+	- Four giants with hands outstretched
+		- Northwest: Cloud giant
+			- Wearing [[Blindfold of Blindsight]]
+			- Sigil deactivated
+		- Northeast: Storm giant
+			- Holding **Wand**
+			- Sigil still active
+		- Southeast: Frost giant
+			- Wearing **Ring**
+			- Sigil deactivated
+		- Southwest: Fire giant
+			- Sigil deactivated
+	- 
+
+
+![[chamber_with_giant_wards.png]]
