@@ -1,6 +1,6 @@
 ```
 date:: 2026-05-12
-summary:: "The party defeated the two guard zombies left by Morkaryt, the Mystbringer, with some brain and brawn and then explored the rest of the temple. They found a central chamber with four wards locking a door presumably to Ylgmesr, the Farseer's tomb. The statues emitting the wards each d"
+summary:: "The party defeated the two guard zombies left by Morkaryt, the Mystbringer, with some brain and brawn and then explored the rest of the temple. They found a central chamber with four wards locking a door presumably to Ylgmesr, the Farseer's tomb. The statues emitting the wards each corresponded to a type of giant and held an ite: frost: ring, fire: helmet, cloud: blindfold, storm: wand. There was a map on the wall showing the locations of four other temples corresponding to the giants; the storm giant temple was under a frozen lake and was the only giant with the ward in tact. The party then explored the rest of the crypt, sneaking past a zombie and disabling traps, to uncover the two remaining items. With all the artifacts in tow, the party rested and prepared to head to the storm giant temple where they expect to find Morkaryt disabling the last ward."
 ```
 
 ## TODO
@@ -33,3 +33,7 @@ summary:: "The party defeated the two guard zombies left by Morkaryt, the Mystbr
 - Still concentrating on Summon Fey
 
 ## Notes
+
+- Fight with two giants (clout + frost giant zombies)
+	- [[Tycho]] cast wall of force to contain the giants, but the cloud giant was able to misty step out. The frost giant was permanently stuck to get immolated by [[Taliesin]]'s moon beam
+	- [[Rowan]] crushed the cloud giant with multiple crits
