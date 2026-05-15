@@ -39,7 +39,7 @@
 
 ## Ring of Spell Storing
 
-- 
+- (5) Bigby's Hand
 - 
 ## Consumables
 
