@@ -31,7 +31,12 @@ summary:: ""
 		- Fire -- Svenio
 		- Cloud -- Thund (not in this room)
 - Attuning to giant items resulted in us becoming giant sized -- +6 to STR ability score
-- 
+	- Blindfold of Blindsight -- [[Kiirian]]
+	- Ring of Anti-Teleportation -- [[Rowan]]
+	- Helm of Elemental Protection -- [[Taliesin]]
+	- Wand of Greater Reduction -- [[Tycho]]
+- Flew over to frozen lake where storm giant temple was
+- Encounter with 
 
 
 ![[storm_giant_temple_room.png]]
