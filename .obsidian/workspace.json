@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,8 +238,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d4ff362843482c3",
+  "active": "c76f6e21d08317ef",
   "lastOpenFiles": [
+    "PCs/Tycho.md",
     "Session Notes/Session 04 - The Frozen Storm Tomb.md",
     "PCs/Kiirian.md",
     "Session Notes/Session 03 - The Four Wards.md",
@@ -253,7 +254,6 @@
     "Attachments/wall_of_force_darkness.png",
     "Attachments/giant_battle.png",
     "Untitled",
-    "PCs/Tycho.md",
     "Attachments/tycho_v2.png",
     "Attachments/taliesin.png",
     "Attachments/rowan.png",
