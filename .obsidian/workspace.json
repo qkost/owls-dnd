@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Session Notes/Session 04 - The Frozen Storm Tomb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Session 04 - The Frozen Storm Tomb"
             }
           },
           {
@@ -240,11 +240,12 @@
   },
   "active": "c76f6e21d08317ef",
   "lastOpenFiles": [
+    "Attachments/storm_giant_temple_room.png",
+    "Resources.md",
     "Session Notes/Session 04 - The Frozen Storm Tomb.md",
     "PCs/Tycho.md",
     "PCs/Kiirian.md",
     "Session Notes/Session 03 - The Four Wards.md",
-    "Resources.md",
     "PCs/Taliesin.md",
     "Session Notes/Session 02 - The Mystbringer.md",
     "Attachments/chamber_with_giant_wards.png",

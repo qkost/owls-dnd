@@ -16,3 +16,14 @@ summary:: ""
 ## Recap
 
 ## Notes
+
+- Scried on [[Morkaryt, the Mystbringer]]
+	- In large room of a temple -- image below
+		- 100 ft across
+		- Water dripping from ceiling, coral growing around
+		- Storm giant symbols
+	- [[Morkaryt, the Mystbringer]] pacing around a sarcophagus
+		- Has st
+
+
+![[storm_giant_temple_room.png]]
