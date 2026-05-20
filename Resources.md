@@ -45,8 +45,6 @@
 
 - Item 1
 
-
-
 # Quick Reference
 
 ## Cure Wounds
@@ -56,3 +54,4 @@
 - L3: 6d8 + 5 = 32
 - L4: 6d8 + 5 = 41
 - L5: 8d8 + 5 = 50
+- L6: 9d8 + 5 = 54.5
