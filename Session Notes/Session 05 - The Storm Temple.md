@@ -4,7 +4,7 @@ summary:: ""
 ```
 
 ## TODO
-- [ ] 
+- [ ] Cast seeming on party to take identity of guards, including Thund the 
 ## Recap
 
 - Concentrating on spells
