@@ -36,7 +36,19 @@ summary:: ""
 	- Helm of Elemental Protection -- [[Taliesin]]
 	- Wand of Greater Reduction -- [[Tycho]]
 - Flew over to frozen lake where storm giant temple was
-- Encounter with 
+- Encounter on frozen lake
+	- Caldera of old volcano filled with water
+	- Ice covering surface of water
+	- Monsters
+		- Three zombie cloud giants
+		- One regal cloud giant -- likely Thund
+	- Snuck by
+		- Pass without Trace by [[Taliesin]]
+		- Invisibility - [[Tycho]] got everybody but [[Kiirian]] who cast it on himself
+		- Minor illusion of voice
+		- Jumped + feather fall into water
+- Swam into water and passed two storm giant zombies guarding entrance
+	- Followed by Thund
 
 
 ![[storm_giant_temple_room.png]]
