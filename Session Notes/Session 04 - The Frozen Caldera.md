@@ -1,6 +1,6 @@
 ```
-date:: 2026-XX-XX
-summary:: ""
+date:: 2026-05-19
+summary:: "The party transforms into giants from their new cursed magic items and travels to the frozen lake surface above the storm giant temple. There they sneak past some zombie giants and one regal cloud giant zombie before swimming to the depths of a water-filled caldera into the entrace of the temple."
 ```
 
 ## TODO
@@ -11,8 +11,8 @@ summary:: ""
 	- [x] Bigby's hand
 - [x] Update true strike
 - [ ] Wall of force next to person wearing ring of anti-teleportation
-- [ ] Cast scrying on [[Morkaryt, the Mystbringer]] before sleeping
-	- [ ] Ask if making minor illusion counts as a "Picture or other likeness"
+- [x] Cast scrying on [[Morkaryt, the Mystbringer]] before sleeping
+	- [x] Ask if making minor illusion counts as a "Picture or other likeness"
 ## Recap
 
 ## Notes
