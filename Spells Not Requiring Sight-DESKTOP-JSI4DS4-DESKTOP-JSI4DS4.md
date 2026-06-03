@@ -31,18 +31,12 @@
 
 - Dispel Magic
 - Fireball
-- Hypnotic Pattern
-- Leomund's Tiny Hut
-- Phantom Steed
-- Slow
-- Water Breathing
 
 # L4
 
-- Dimension Door
-- Divination
+- 
 
 # L5
 
-- Wall of Force
+- 
 
