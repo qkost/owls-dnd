@@ -40,7 +40,15 @@
 ## Ring of Spell Storing
 
 - (5) Bigby's Hand
-- 
+
+## Wand of Greater Reduction
+
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
 ## Consumables
 
 - Item 1
