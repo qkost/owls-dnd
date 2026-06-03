@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,11 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35b7ea16a2c4711a",
+  "active": "a8dd568fa637dce0",
   "lastOpenFiles": [
+    "Session Notes/Session 05 - The Storm Temple.md",
     "Session Notes/Session 04 - The Frozen Caldera.md",
     "Spells Not Requiring Sight.md",
-    "Session Notes/Session 05 - The Storm Temple.md",
     "Resources.md",
     "Attachments/storm_giant_temple_room.png",
     "PCs/Tycho.md",
