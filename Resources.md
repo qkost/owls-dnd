@@ -39,7 +39,7 @@
 
 ## Ring of Spell Storing
 
-- (5) [Bigby's Hand](https://www.dndbeyond.com/spells/2618928-bigbys-hand)
+- 
 
 ## Wand of Greater Reduction
 

@@ -63,8 +63,7 @@
               "title": "Session 05 - The Storm Temple"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,11 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fe45ce37bcf71b6",
+  "active": "3b710271f3cc0919",
   "lastOpenFiles": [
+    "Spells Not Requiring Sight.md",
     "Session Notes/Session 04 - The Frozen Caldera.md",
     "Resources.md",
-    "Spells Not Requiring Sight.md",
     "Session Notes/Session 05 - The Storm Temple.md",
     "Attachments/storm_giant_temple_room.png",
     "PCs/Tycho.md",
