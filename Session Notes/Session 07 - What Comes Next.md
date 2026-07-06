@@ -14,7 +14,8 @@ summary:: ""
 	- [ ] 2 misty steps + feather fall
 - [ ] Buy scrolls
 	- [ ] Remove Curse
-	- [ ] 
+	- [ ] Teleportation Circle
+- [ ] Copy scrolls (2 hours + 50 gp per level)
 
 
 ## Recap
