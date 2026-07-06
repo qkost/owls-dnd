@@ -40,6 +40,8 @@
 ## Ring of Spell Storing
 
 - Misty Step (2)
+- Misty Step (2)
+- Feather Fall (1)
 
 ## Wand of Greater Reduction
 

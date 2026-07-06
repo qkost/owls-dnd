@@ -10,7 +10,11 @@ summary:: ""
 - [ ] Buy expensive spell component items
 	- [ ] Contingency
 	- [ ] Summon Aberration 
-- [ ] Put spells in ring of 
+- [ ] Put spells in ring of spell storing
+	- [ ] 2 misty steps + feather fall
+- [ ] Buy scrolls
+	- [ ] Remove Curse
+	- [ ] 
 
 
 ## Recap
