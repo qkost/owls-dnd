@@ -60,3 +60,8 @@ Appearance:
 - Very intricate staff that was clearly made for a person three times his height
 - Well crafted armor he made himself
 
+Initial Quest:
+- Given your quest by a cloud giant wizard named [[Zephyros]]
+	- He noticed a strange haze in this valley
+	- Zephyros lives in a floating tower
+	- He quested you to figure out what was going on

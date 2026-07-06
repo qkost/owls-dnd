@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -267,10 +267,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e364a62649867d6",
+  "active": "3979a8cc4bea4d2d",
   "lastOpenFiles": [
-    "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
     "PCs/Tycho.md",
+    "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
     "Session Notes/Session 07 - What Comes Next.md",
     "Spells.md",
     "Resources.md",
