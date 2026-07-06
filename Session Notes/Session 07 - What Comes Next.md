@@ -4,14 +4,19 @@ summary:: ""
 ```
 
 ## TODO
-- [ ] Dedide on magic item
+- [ ] Decide on magic item
 	- [ ] Pennant of Vind (fly, feather fall)
 	- [ ] Others are mostly just resistances
 - [ ] Buy expensive spell component items
-	- [ ] Identify (100 GP)
-	- [ ] Summon Aberration (400 GP)
+	- [ ] Consumables
+		- [ ] Arcane Lock (25 GP)
+		- [ ] Divination (25 GP)
+	- [ ] Have but not consumed materials
+		- [ ] Identify (100 GP)
+		- [ ] Scrying (1,000 GP)
+		- [ ] Summon Aberration (400 GP)
 	- [ ] Future
-		- [ ] Contingency
+		- [ ] Contingency (1,500 GP)
 - [ ] Put spells in ring of spell storing
 	- [ ] 2 misty steps + feather fall
 - [ ] Buy scrolls
