@@ -24,7 +24,6 @@ summary:: ""
 - [ ] Buy scrolls -- see [[Spells#Spell Wish List]]
 - [ ] Copy scrolls (2 hours + 50 gp per level)
 
-
 ## Recap
 
 ## Notes
