@@ -24,6 +24,7 @@
 ## L2
 
 - [ ] Knock
+- [ ] Scorching Ray
 
 ## L3
 
