@@ -39,7 +39,7 @@
 
 ## Ring of Spell Storing
 
-- 
+- Misty Step (2)
 
 ## Wand of Greater Reduction
 
