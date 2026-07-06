@@ -18,7 +18,7 @@ From John:
 > They saw you enter the dungeon while they were on a scouting mission last session after a group of undead giant had gone in sometime earlier.
 
 
-- Given your quest by a cloud giant wizard named Zephyros
+- Given your quest by a cloud giant wizard named [[Zephyros]]
 	- He noticed a strange haze in this valley
 	- Zephyros lives in a floating tower
 	- He quested you to figure out what was going on
