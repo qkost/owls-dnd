@@ -8,8 +8,10 @@ summary:: ""
 	- [ ] Pennant of Vind (fly, feather fall)
 	- [ ] Others are mostly just resistances
 - [ ] Buy expensive spell component items
-	- [ ] Contingency
-	- [ ] Summon Aberration 
+	- [ ] Identify (100 GP)
+	- [ ] Summon Aberration (400 GP)
+	- [ ] Future
+		- [ ] Contingency
 - [ ] Put spells in ring of spell storing
 	- [ ] 2 misty steps + feather fall
 - [ ] Buy scrolls

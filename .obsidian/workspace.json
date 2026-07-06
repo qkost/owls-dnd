@@ -35,8 +35,7 @@
               "title": "Spells"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d9d6cd00d52b89e",
+  "active": "8aa0b19076b395c5",
   "lastOpenFiles": [
-    "Session Notes/Session 07 - What Comes Next.md",
     "Spells.md",
+    "Session Notes/Session 07 - What Comes Next.md",
     "Resources.md",
     "Session Notes/Untitled.md",
     "Session Notes/Session 05 - The Storm Temple.md",
