@@ -18,7 +18,13 @@
 
 # L4
 
-- Greater Invisibility (pick up later with Illusion Savant?)
+- [ ] Greater Invisibility (pick up later with Illusion Savant?)
 # L5
 
+- [ ] Hold Monster
+- [ ] Modify Memory
+- [ ] Passwall
+- [ ] Rary's Telepathic Bond
+- [ ] Synaptic Static
+- [ ] Teleportation Circle
 - [ ] Wall of Stone
