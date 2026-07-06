@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spell Wish List.md",
+                "file": "Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spell Wish List"
+              "title": "Spells"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2858b853a2ff53f7",
@@ -213,7 +214,7 @@
   "active": "7d9d6cd00d52b89e",
   "lastOpenFiles": [
     "Session Notes/Session 07 - What Comes Next.md",
-    "Spell Wish List.md",
+    "Spells.md",
     "Resources.md",
     "Session Notes/Untitled.md",
     "Session Notes/Session 05 - The Storm Temple.md",
