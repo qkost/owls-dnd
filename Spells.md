@@ -34,6 +34,7 @@
 
 ## L4
 
+- [ ] Conjure Minor Elementals
 - [ ] Greater Invisibility (pick up later with Illusion Savant?)
 ## L5
 

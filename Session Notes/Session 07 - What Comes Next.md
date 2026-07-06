@@ -11,6 +11,7 @@ summary:: ""
 	- [ ] Consumables
 		- [ ] Arcane Lock (25 GP)
 		- [ ] Divination (25 GP)
+		- [ ] Illusory Script (10 GP)
 	- [ ] Material components are not consumed
 		- [ ] Identify (100 GP)
 		- [ ] Scrying (1,000 GP)
