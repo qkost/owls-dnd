@@ -1,5 +1,5 @@
 
-## Scribing Costs
+## Scribing and Buying Spell Scroll Costs
 
 | Spell Level | Time to Scribe Spell Scroll | Cost to Scribe Spell Scroll | Time to Copy into Spellbook | Cost to Copy into Spellbook | Cost to Buy Scroll |
 | ----------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | ------------------ |
