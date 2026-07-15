@@ -30,16 +30,5 @@ summary:: "The party rested in Zephros' cloud giant tower and prepared for our n
 
 - Spent it at [[Zephyros]]' tower
 - Spells
-	- Got component for contingency
-	- Copied Teleportation Circle
-- Learned backstories
-	- [[Rowan]]
-		- From noble family [[Alagondar]]
-		- Family on run after volcano eruption
-		- Brother and she are last survivors
-		- Last saw brother running north, but had to leave him behind in fight
-		- Rumor - [[Sons of Alagondar]] led by brother want to go take back [[Neverwinter]]
-	- [[Kiirian]]
-		- Drow
-		- Looking for a family heirloom/insignia taken by [[Zhentarim]]
-		- [[Zhentarim]] are ;
+	- Got component for 
+	- 
