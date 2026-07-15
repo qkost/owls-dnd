@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 06 - The Mystbringer.md",
+                "file": "Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 06 - The Mystbringer"
+              "title": "Spells"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "b610066c80b07ab2",
   "lastOpenFiles": [
+    "Session Notes/Session 06 - The Mystbringer.md",
     "Session Notes/Session 07 - What Comes Next.md",
     "PCs/Kiirian.md",
     "PCs/Taliesin.md",
@@ -208,7 +209,6 @@
     "Session Notes/Session 05 - The Storm Temple.md",
     "Session Notes/Session 04 - The Frozen Caldera.md",
     "README.md",
-    "Session Notes/Session 06 - The Mystbringer.md",
     "Spells Not Requiring Sight.md",
     "Attachments/storm_giant_temple_room.png",
     "Session Notes/Session 03 - The Four Wards.md",
