@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 200
   },
   "right": {
     "id": "2858b853a2ff53f7",
@@ -224,16 +224,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc9fbbd74d5315d1",
+  "active": "26574ff80e554300",
   "lastOpenFiles": [
-    "Session Notes/Session 07 - What Comes Next.md",
+    "PCs/Kiirian.md",
     "Session Notes/Session 08 - To Neverwinter.md",
+    "Session Notes/Session 07 - What Comes Next.md",
     "Session Notes/Session 07 - What Comes Next-DESKTOP-JSI4DS4-2.md",
     "Session Notes/Session 07 - What Comes Next-DESKTOP-JSI4DS4.md",
     "Resources.md",
     "Spells.md",
     "Session Notes/Session 06 - The Mystbringer.md",
-    "PCs/Kiirian.md",
     "PCs/Taliesin.md",
     "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
     "PCs/Tycho.md",
