@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Tycho.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tycho"
+              "title": "Resources"
             }
           },
           {
@@ -226,6 +226,7 @@
   },
   "active": "26574ff80e554300",
   "lastOpenFiles": [
+    "PCs/Tycho.md",
     "Session Notes/Session 08 - To Neverwinter.md",
     "PCs/Kiirian.md",
     "Session Notes/Session 07 - What Comes Next.md",
@@ -236,7 +237,6 @@
     "Session Notes/Session 06 - The Mystbringer.md",
     "PCs/Taliesin.md",
     "Session Notes/Session 01 - Crypt of the Fallen Giants.md",
-    "PCs/Tycho.md",
     "Session Notes/Untitled.md",
     "Session Notes/Session 05 - The Storm Temple.md",
     "Session Notes/Session 04 - The Frozen Caldera.md",
