@@ -21,16 +21,22 @@ summary:: "The party traveled to Auckney and Rowan dueled with a mysterious, pow
 		- Artificer with cool platform that moves him about
 	- Noble ([[Rowan]]'s brother) was killed by [[Zhentarim]]
 	- Told us about graveyard
-- Crossroads -- encountered mysterious figure
+- Crossroads -- encountered mysterious figure who called himself [[Rasheem]]
 	- Claimed to be a teacher of martial prowess and challenged [[Rowan]] to a duel to see if she was worth
 	- Meeting people
 		- Young woman
 		- Drow
 		- Elf
+	- Called [[Rowan]] "[[Eleanor]]" despite us disguised -- could see through illusions
 - Fight
 	- [[Tycho]] hasted [[Rowan]]
 	- [[Rowan]] noticed his resistances
 		- Immune to non-magical attacks
 		- Vulnerable to magical piercing damage from good creatures
-	- [[Kiirian]] threw swords 
-- 
+	- [[Kiirian]] threw swords for [[Rowan]] to use
+	- [[Rowan]] nearly took him down despite him being very powerful
+	- [[Rasheem]] teleported away
+- Allies were hiding/invisible
+	- Were abandoned after [[Rasheem]] teleported
+	- Cagey about their relationship
+	- [[Tycho]] mass suggested that the tell everything they know about [[Rasheem]]
