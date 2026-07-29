@@ -44,4 +44,4 @@ summary:: "Our heroes traveled to Luskan to track down the Sons of Aligondar. Th
 		- Looks like Maleficent
 		- Robed acolytes & guards surround us
 		- [[Gryff Quickfoot]] was doppelganger
-		- From arcane brotherhood
+		- From [[Arcane Brotherhood]]
