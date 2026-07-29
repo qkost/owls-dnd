@@ -2,6 +2,8 @@
 - Tower in [[Luskan]] on [[Cutlass Island]]
 - Disappeared for a century or two
 - Shrouded in mystery
+- Goals gain power and influence
+- All members tend to be rivals
 - Members
 	- [[Avarice]]
 		- Evocation wizard
