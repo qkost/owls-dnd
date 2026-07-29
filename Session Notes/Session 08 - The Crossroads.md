@@ -46,3 +46,5 @@ summary:: "The party traveled to Auckney and Rowan dueled with a mysterious, pow
 		- Has taken many different forms/illusions, all humanoid
 		- Spends a lot of time in [[Neverwinter]]
 		- Allies/sell swords are paid to not ask questions
+		- Have accompanied him on some missions to provide backup
+		- 
