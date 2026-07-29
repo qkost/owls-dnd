@@ -47,4 +47,7 @@ summary:: "The party traveled to Auckney and Rowan dueled with a mysterious, pow
 		- Spends a lot of time in [[Neverwinter]]
 		- Allies/sell swords are paid to not ask questions
 		- Have accompanied him on some missions to provide backup
-		- 
+		- [[Rasheem]] talks to himself on occasions
+		- Have seen him die on several occasions -- no corpse; they were instructed to hold on to his possessions
+		- His companions are headed to [[Luskan]]
+		- [[Rasheem]] references people who have broken laws/contracts
