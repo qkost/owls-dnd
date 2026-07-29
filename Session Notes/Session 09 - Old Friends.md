@@ -28,4 +28,10 @@ summary:: ""
 - Guards noticed us traveling across town
 - [[Flopping Frond]]
 	- [[Gryff Quickfoot]] - older human
-	- [[Gryff Quickfoot]] didn't remember me -- very suspicious. No magic detected (probably not magicall)
+	- [[Gryff Quickfoot]] didn't remember me -- very suspicious. No magic detected (probably not magically disguised)
+	- [[Gryff Quickfoot]] did remember that we fought a green dragon last time
+	- Knows about the [[Sons of Alagondar]]
+		- Group trying to overthrow [[Neverwinter]]
+		- They sacked the city
+		- Overthrew the leader; [[Neverwinter]] is in turmoil
+		- Ha
