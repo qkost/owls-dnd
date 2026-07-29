@@ -30,7 +30,7 @@ summary:: ""
 	- [[Gryff Quickfoot]] - older human
 	- [[Gryff Quickfoot]] didn't remember me -- very suspicious. No magic detected (probably not magically disguised)
 	- [[Gryff Quickfoot]] did remember that we fought a green dragon last time
-	- Knows about the [[Sons of Alagondar]]
+	- [[Gryff Quickfoot]] knows about the [[Sons of Alagondar]]
 		- Group trying to overthrow [[Neverwinter]]
 		- They sacked the city
 		- Overthrew the leader; [[Neverwinter]] is in turmoil
@@ -40,4 +40,7 @@ summary:: ""
 		- [[The Royal Arms Inn]]
 			- Nicest place in the city
 			- Nobles/merchants travel
-			- 
+	- [[]] - When we leave pocket dimension elven woman is there
+		- Looks like Maleficent
+		- Robed acolytes & guards surround us
+		- 
