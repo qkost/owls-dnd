@@ -9,4 +9,8 @@ summary:: ""
 
 ## Notes
 
-- 
+- [[Rowan]] backstory
+	- Rowan boarded ship
+	- Brother fended off bandits
+	- Killed brother, took body away
+- [[Rasheen]] has been near [[a]]
