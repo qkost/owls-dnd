@@ -21,7 +21,7 @@ summary:: "The party traveled to Auckney and Rowan dueled with a mysterious, pow
 		- Artificer with cool platform that moves him about
 	- Noble ([[Rowan]]'s brother) was killed by [[Zhentarim]]
 	- Told us about graveyard
-- Crossroads -- encountered mysterious figure who called himself [[Rasheem]]
+- Crossroads -- encountered mysterious figure who called himself [[Rasheen]]
 	- Claimed to be a teacher of martial prowess and challenged [[Rowan]] to a duel to see if she was worth
 	- Meeting people
 		- Young woman
@@ -35,11 +35,11 @@ summary:: "The party traveled to Auckney and Rowan dueled with a mysterious, pow
 		- Vulnerable to magical piercing damage from good creatures
 	- [[Kiirian]] threw swords for [[Rowan]] to use
 	- [[Rowan]] nearly took him down despite him being very powerful
-	- [[Rasheem]] teleported away -- counterspell had no effect
+	- [[Rasheen]] teleported away -- counterspell had no effect
 - Allies were hiding/invisible
-	- Were abandoned after [[Rasheem]] teleported
+	- Were abandoned after [[Rasheen]] teleported
 	- Cagey about their relationship
-	- [[Tycho]] mass suggested that the tell everything they know about [[Rasheem]]
+	- [[Tycho]] mass suggested that the tell everything they know about [[Rasheen]]
 		- Got sword from slaying a demon prince
 		- Visited other lower planes (Hades, Nine Hells, Abyss)
 		- Is both a mage and a martial combatant
@@ -47,7 +47,8 @@ summary:: "The party traveled to Auckney and Rowan dueled with a mysterious, pow
 		- Spends a lot of time in [[Neverwinter]]
 		- Allies/sell swords are paid to not ask questions
 		- Have accompanied him on some missions to provide backup
-		- [[Rasheem]] talks to himself on occasions
+		- [[Rasheen]] talks to himself on occasions
 		- Have seen him die on several occasions -- no corpse; they were instructed to hold on to his possessions
 		- His companions are headed to [[Luskan]]
-		- [[Rasheem]] references people who have broken laws/contracts
+		- [[Rasheen]] references people who have broken laws/contracts
+		- [[Rasheen]] said he trained [[Rowan]]'s brother
