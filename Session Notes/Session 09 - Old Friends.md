@@ -1,6 +1,6 @@
 ```
-date:: 2026-XX-XX
-summary:: ""
+date:: 2026-07-28
+summary:: "Our heroes traveled to Luskan to track down the Sons of Aligondar. They went to the Flopping Frond to meet up with Gryff who turned out to be a doppelganger working for a wizard from the Arcane Brotherhood Druette of the Raven, who surrounded us with her entourage in the tavern."
 ```
 
 ## TODO
