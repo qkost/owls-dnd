@@ -1,0 +1,18 @@
+
+- Tower in [[Luskan]] on [[Cutlass Island]]
+- Members
+	- [[Avarice]]
+		- Evocation wizard
+		- tiefling
+		- Performed experiment on [[Karazaran]] - implanted with slaad tadpole
+		- Big bad at end of campaign
+	- [[Velen Harpel]]
+		- Fought alongside party in Frostmaiden
+	- [[D'Zhaan]]
+		- Burned at the stake at [[Easthaven]]
+		- Met simulacrum in upside-down spire
+	- [[Naas Lamantiir]]
+		- Ghost
+		- Possessed [[Mira]]
+		- Possessed leader of the wolf tribe
+  
