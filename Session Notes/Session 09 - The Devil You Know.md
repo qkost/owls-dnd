@@ -9,8 +9,13 @@ summary:: ""
 
 ## Notes
 
-- [[Rowan]] backstory
+- [[Rowan]] backstory (from lady on docks)
 	- Rowan boarded ship
 	- Brother fended off bandits
 	- Killed brother, took body away
-- [[Rasheen]] has been near [[a]]
+	- [[Rasheen]] started showing up around this time
+	- Lady thinks they are part of the [[Zhentarim]]
+		- They were trained well
+		- Brother fought well
+	- Lady probably does not have a reliable memory 
+- [[Rasheen]] has been near [[Auckney]] recently; shows up a few times a year
