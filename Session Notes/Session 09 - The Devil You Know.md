@@ -21,4 +21,5 @@ summary:: ""
 - [[Rasheen]] has been near [[Auckney]] recently; shows up a few times a year
 - Long rested at the tavern
 - Rode phantom steeds to [[Luskan]]
+	- [[Luskan]] has the [[Arcane Brotherhood]] which had run ins with the party
 - 

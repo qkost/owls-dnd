@@ -3,11 +3,12 @@
 - Members
 	- [[Avarice]]
 		- Evocation wizard
-		- tiefling
+		- Tiefling
 		- Performed experiment on [[Karazaran]] - implanted with slaad tadpole
 		- Big bad at end of campaign
 	- [[Velen Harpel]]
 		- Fought alongside party in Frostmaiden
+		- Necromancer
 	- [[D'Zhaan]]
 		- Burned at the stake at [[Easthaven]]
 		- Met simulacrum in upside-down spire
@@ -15,4 +16,3 @@
 		- Ghost
 		- Possessed [[Mira]]
 		- Possessed leader of the wolf tribe
-  
