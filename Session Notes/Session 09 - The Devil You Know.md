@@ -19,3 +19,6 @@ summary:: ""
 		- Brother fought well
 	- Lady probably does not have a reliable memory 
 - [[Rasheen]] has been near [[Auckney]] recently; shows up a few times a year
+- Long rested at the tavern
+- Rode phantom steeds to [[Luskan]]
+- 
