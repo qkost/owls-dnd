@@ -34,4 +34,10 @@ summary:: ""
 		- Group trying to overthrow [[Neverwinter]]
 		- They sacked the city
 		- Overthrew the leader; [[Neverwinter]] is in turmoil
-		- Ha
+		- Happened within the next week
+		- [[Harpers]] prefer less conflict; rebellion is never good
+		- Purpose was to put heir of [[Alagondar]] family back on the throne
+		- [[The Royal Arms Inn]]
+			- Nicest place in the city
+			- Nobles/merchants travel
+			- 
