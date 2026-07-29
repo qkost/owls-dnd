@@ -40,7 +40,8 @@ summary:: ""
 		- [[The Royal Arms Inn]]
 			- Nicest place in the city
 			- Nobles/merchants travel
-	- [[]] - When we leave pocket dimension elven woman is there
+	- [[Dreuette of the Raven]] - When we leave pocket dimension elven woman is there
 		- Looks like Maleficent
 		- Robed acolytes & guards surround us
-		- 
+		- [[Gryff Quickfoot]] was doppelganger
+		- From arcane brotherhood
