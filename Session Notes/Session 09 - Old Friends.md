@@ -25,4 +25,7 @@ summary:: ""
 - Divination - Who in [[Luskan]] knows about the [[Sons of Alagondar]]
 	- Seems like a lot of people
 	- Points us toward [[The Royal Arms Inn]] on northern side of town
+- Guards noticed us traveling across town
+- [[Flopping Frond]]
+	- [[Gryff Quickfoot]] - older human
 	- 

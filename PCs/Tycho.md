@@ -13,7 +13,7 @@ L1 Artificer
 - Old party
 	- Brytta
 	- Jannus
-	- [[Gryff]] - shopkeep [[Harpers]] agent in [[Neverwinter]]
+	- [[Gryff Quickfoot]] - shopkeep [[Harpers]] agent in [[Neverwinter]]
 - [[Claugiyliamatar]] - Ancient Green Dragon who killed party
 
 ## Places
