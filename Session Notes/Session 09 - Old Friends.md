@@ -28,4 +28,4 @@ summary:: ""
 - Guards noticed us traveling across town
 - [[Flopping Frond]]
 	- [[Gryff Quickfoot]] - older human
-	- 
+	- [[Gryff Quickfoot]] didn't remember me -- very suspicious. No magic detected (probably not magicall)
