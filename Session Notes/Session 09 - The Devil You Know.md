@@ -22,4 +22,7 @@ summary:: ""
 - Long rested at the tavern
 - Rode phantom steeds to [[Luskan]]
 	- [[Luskan]] has the [[Arcane Brotherhood]] which had run ins with the party
-- 
+- Divination - Who in [[Luskan]] knows about the [[Sons of Alagondar]]
+	- Seems like a lot of people
+	- Points us toward [[The Royal Arms Inn]] on northern side of town
+	- 

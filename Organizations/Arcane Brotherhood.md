@@ -1,5 +1,7 @@
 
 - Tower in [[Luskan]] on [[Cutlass Island]]
+- Disappeared for a century or two
+- Shrouded in mystery
 - Members
 	- [[Avarice]]
 		- Evocation wizard
