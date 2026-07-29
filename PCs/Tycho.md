@@ -47,7 +47,7 @@ Bonds:
 - Lost adventuring party which he presumes are dead but ultimately doesn't know what happened to them:
 	- [[Bryyta]], the Elven Sorcerer
 	- [[Jaanus]], the Halfling Bard
-	- [[Gryff]], the veteran Fighter who owns a tea shop front in Neverwinter and is a contact with the [[Harpers]]
+	- [[Gryff Quickfoot]], the veteran Fighter who owns a tea shop front in [[Luskan]] and is a contact with the [[Harpers]]
 - Has the enmity of the Ancient Green Dragon, [[Claugiyliamatar]]. His Ring of Spell Storing is from the dragon's horde.
 
 Flaws:
