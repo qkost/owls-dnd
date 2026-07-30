@@ -5,6 +5,7 @@
 
 # Daily Features
 
+- [ ] Heroic Inspiration
 - Lucky
 	- [ ] 1
 	- [ ] 2
