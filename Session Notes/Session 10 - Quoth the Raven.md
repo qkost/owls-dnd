@@ -33,7 +33,12 @@ summary:: ""
 - Met [[Rasheen]]
 	- Wants to do another quest
 		- Well of power 
-		- N
+		- Not on this plane of existence
+		- His people use as a training ground
+		- Source of power there we can use
 	- Says he's aligned with [[Sons of Alagondar]]
 	- June 6
 	- Contractually obligated to help [[Rowan]]
+	- Grab hands and plane shifted
+- Another plane of existence
+	- Lightning
