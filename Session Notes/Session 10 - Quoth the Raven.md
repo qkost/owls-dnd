@@ -83,3 +83,5 @@ summary:: ""
 	- Red
 	- A creature protects the well -- you will have to defeat it
 	- No puzzles, tricks or traps we will encounter
+	- Dragon comes out of blood
+		- Vasicar, The Bloodbound
