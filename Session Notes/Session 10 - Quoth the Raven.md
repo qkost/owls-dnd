@@ -69,9 +69,17 @@ summary:: ""
 		- On rock island
 		- Red glow
 		- Stained glass windows
+			- Red tones
+			- Red emanating from within
+			- Depictions of creatures
+				- Large winged creature
+				- Claws
+				- Horns
+				- Wings
 		- Iron doors on front
 		- "You will find the well in that temple."
 	- Looking off of platform is big abyss
 	- Underground
 	- Red
-	- A creature protects the well -- you will have to 
+	- A creature protects the well -- you will have to defeat it
+	- No puzzles, tricks or traps we will encounter

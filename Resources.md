@@ -7,7 +7,7 @@
 
 - [ ] Heroic Inspiration
 - Lucky
-	- [x] 1
+	- [ ] 1
 	- [ ] 2
 	- [ ] 3
 	- [ ] 4
