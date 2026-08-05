@@ -42,14 +42,7 @@
 
 - Misty Step (2)
 - Counterspell (3)
-## Wand of Greater Reduction
 
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
 ## Consumables
 
 - Item 1
