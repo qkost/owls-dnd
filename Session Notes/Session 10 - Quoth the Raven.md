@@ -55,4 +55,6 @@ summary:: ""
 	- At the seems of several planes of existence
 		- Where [[Nine Hells]], [[Abyss]], and prime material co-exist
 	- Had to make wisdom save for madness
-- 
+- Decided to travel there
+	- Poisons are not helpful
+	- 

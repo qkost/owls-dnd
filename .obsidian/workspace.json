@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells.md",
+                "file": "Session Notes/Session 10 - Quoth the Raven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spells"
+              "title": "Session 10 - Quoth the Raven"
             }
           },
           {
@@ -268,6 +268,7 @@
   },
   "active": "aa3bbf0946756e4a",
   "lastOpenFiles": [
+    "Spells.md",
     "Session Notes/Session 10 - Quoth the Raven.md",
     "Session Notes/Session 09 - Old Friends.md",
     "Organizations/Arcane Brotherhood.md",
@@ -280,7 +281,6 @@
     "PCs/Tycho.md",
     "Organizations",
     "Session Notes/Session 07 - What Comes Next.md",
-    "Spells.md",
     "PCs/Rowan.md",
     "NPCS",
     "PCs/Kiirian.md",
