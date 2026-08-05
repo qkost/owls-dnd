@@ -20,3 +20,5 @@
 		- Ghost
 		- Possessed [[Mira]]
 		- Possessed leader of the wolf tribe
+	- [[Dreuette of the Raven]]
+		- Looking for staff of power beloning to 
