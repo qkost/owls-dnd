@@ -55,6 +55,9 @@ summary:: ""
 	- At the seems of several planes of existence
 		- Where [[Nine Hells]], [[Abyss]], and prime material co-exist
 	- Had to make wisdom save for madness
+- Sending stone
+	- [[Gryff Quickfoot]] was captured, no one running [[Harpers]] in [[Luskan]]
+	- Held in [[Arcane Brotherhood]] tower
 - Upgrades
 	- Copied Disguise Self
 	- Transferred Vind rune on to cloak
