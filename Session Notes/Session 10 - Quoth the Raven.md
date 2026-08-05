@@ -1,6 +1,6 @@
 ```
 date:: 2026-08-04
-summary:: ""
+summary:: "After tense conversations with Druette of the Raven and Rasheen, the party decided to accept Rasheen's challege to fight a monster in a font of power in the lower planes -- the dragon Vasicar the Bloodbound."
 ```
 
 ## TODO

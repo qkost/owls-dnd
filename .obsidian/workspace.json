@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "aa3bbf0946756e4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 10 - Quoth the Raven.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 10 - Quoth the Raven"
-            }
-          },
-          {
             "id": "5def90df80c33db2",
             "type": "leaf",
             "state": {
@@ -48,65 +34,9 @@
               "icon": "lucide-file",
               "title": "Session 10 - Quoth the Raven"
             }
-          },
-          {
-            "id": "6274f3db2eadeaa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 08 - The Crossroads.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 08 - The Crossroads"
-            }
-          },
-          {
-            "id": "cded556ea7f9b931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCS/Rasheen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rasheen"
-            }
-          },
-          {
-            "id": "b944d685d01d8b58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/Arcane Brotherhood.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arcane Brotherhood"
-            }
-          },
-          {
-            "id": "565a05c0d7a9587f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resources"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
