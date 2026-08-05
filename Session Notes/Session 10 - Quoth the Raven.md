@@ -14,4 +14,8 @@ summary:: ""
 	- Two scribes -- lesser mages
 	- Doppelganger ([[Gryff Quickfoot]])
 - [[Dreuette of the Raven]]
-	- Archmage of 
+	- Archmage of [[Arcane Brotherhood]] in [[Luskan]]
+	- Questions for us -- dealings in [[Icewind Dale]]
+	- Items found in travels
+	- Reason to believe party is responsible for death of some members
+	- 
