@@ -8,3 +8,7 @@ summary:: ""
 ## Recap
 
 ## Notes
+
+- [[Dreuette of the Raven]] entourage
+	- Two thuggish figures -- executioners with masks; glaives/executioner
+	- 
