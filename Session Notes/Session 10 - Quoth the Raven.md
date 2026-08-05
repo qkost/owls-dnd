@@ -18,6 +18,16 @@ summary:: ""
 	- Questions for us -- dealings in [[Icewind Dale]]
 	- Items found in travels
 	- Reason to believe party is responsible for death of some members
-- Disguises found in [[H]]
+- Attempted to scry on [[Gryff Quickfoot]]
+	- Failed -- likely antimagic field
+- Disguises found in [[Harpers]] hideout (pocket dimension in [[Flopping Frond]])
 	- Three scrolls of disguise self
 	- Some disguise kits
+- [[The Royal Arms Inn]]
+	- Clientele
+		- Upper class/nobility
+		- Merchants
+		- High up ranks in (pirate) crews (captains, first mates)
+		- [[Arcane Brotherhood]]
+	- Greeted by staff -- halfling
+		- 
