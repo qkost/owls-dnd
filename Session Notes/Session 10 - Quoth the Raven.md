@@ -30,4 +30,10 @@ summary:: ""
 		- High up ranks in (pirate) crews (captains, first mates)
 		- [[Arcane Brotherhood]]
 	- Greeted by staff -- halfling
-		- 
+- Met [[Rasheen]]
+	- Wants to do another quest
+		- Well of power 
+		- N
+	- Says he's aligned with [[Sons of Alagondar]]
+	- June 6
+	- Contractually obligated to help [[Rowan]]
