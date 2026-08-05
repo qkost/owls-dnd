@@ -55,6 +55,23 @@ summary:: ""
 	- At the seems of several planes of existence
 		- Where [[Nine Hells]], [[Abyss]], and prime material co-exist
 	- Had to make wisdom save for madness
-- Decided to travel there
+- Upgrades
+	- Copied Disguise Self
+	- Transferred Vind rune on to cloak
+- Decided to travel there - info
 	- Poisons are not helpful
-	- 
+	- Probably not immunity to non-magical damage
+- Travel to new plane
+	- Huge cavern
+	- Bridge
+	- Central platform in chasm
+	- Large temple
+		- On rock island
+		- Red glow
+		- Stained glass windows
+		- Iron doors on front
+		- "You will find the well in that temple."
+	- Looking off of platform is big abyss
+	- Underground
+	- Red
+	- A creature protects the well -- you will have to 
