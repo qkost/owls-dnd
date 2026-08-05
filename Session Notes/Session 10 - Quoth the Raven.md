@@ -41,4 +41,17 @@ summary:: ""
 	- Contractually obligated to help [[Rowan]]
 	- Grab hands and plane shifted
 - Another plane of existence
-	- Lightning
+	- Lightning, black sky
+	- Battle going on - [[Blood War]]
+		- One army - Demons
+			- Blobs of ichor fighting -- size of three story buildings
+			- Giant siege craft with eyes and tentacles
+			- Coming out of the ground
+		- Other army - Devils
+			- Creatures flying
+			- More humanoid looking
+			- Much more organized
+			- Losing the battle
+	- At the seems of several planes of existence
+		- Where [[Nine Hells]], [[Abyss]], and prime material co-exist
+- 
