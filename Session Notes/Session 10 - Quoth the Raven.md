@@ -18,4 +18,6 @@ summary:: ""
 	- Questions for us -- dealings in [[Icewind Dale]]
 	- Items found in travels
 	- Reason to believe party is responsible for death of some members
-	- 
+- Disguises found in [[H]]
+	- Three scrolls of disguise self
+	- Some disguise kits
