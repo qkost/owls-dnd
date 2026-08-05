@@ -10,5 +10,8 @@ summary:: ""
 ## Notes
 
 - [[Dreuette of the Raven]] entourage
-	- Two thuggish figures -- executioners with masks; glaives/executioner
-	- 
+	- Two thuggish figures -- executioners with masks; glaives/executioner's axe
+	- Two scribes -- lesser mages
+	- Doppelganger ([[Gryff Quickfoot]])
+- [[Dreuette of the Raven]]
+	- Archmage of 
