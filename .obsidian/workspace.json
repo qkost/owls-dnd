@@ -49,8 +49,7 @@
               "title": "Resources"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "565a05c0d7a9587f",
+  "active": "ce54f9f0092844a0",
   "lastOpenFiles": [
-    "Session Notes/Session 10 - Quoth the Raven.md",
     "Resources.md",
+    "Session Notes/Session 10 - Quoth the Raven.md",
     "Session Notes/Session 09 - Old Friends.md",
     "NPCS/Gryff Quickfoot.md",
     "Luskan.md",
