@@ -1,5 +1,5 @@
 ![[kiirian.png]]
 
-- Player: Dan?
+- Player: Nate?
 - L10 Fighter
 - Eldritch knight
