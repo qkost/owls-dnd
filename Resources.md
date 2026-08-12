@@ -40,7 +40,7 @@
 
 ## Ring of Spell Storing
 
-- Misty Step (2)
+- 
 - Counterspell (3)
 
 ## Consumables

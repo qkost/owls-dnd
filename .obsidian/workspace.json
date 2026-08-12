@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 11 - Dragons in Dungeons.md",
+                "file": "Session Notes/Session 11 - Dragons in Dungeons.md",
                 "mode": "source",
                 "source": false
               },
@@ -98,8 +98,7 @@
               "title": "Taliesin"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,13 +274,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59f06ea521dc257b",
+  "active": "016b3ad5956e8160",
   "lastOpenFiles": [
     "PCs/Taliesin.md",
-    "PCs/Kiirian.md",
     "Resources.md",
+    "PCs/Kiirian.md",
     "PCs/Tycho.md",
-    "Session 11 - Dragons in Dungeons.md",
+    "Session Notes/Session 11 - Dragons in Dungeons.md",
     "Session Notes/Session 10 - Quoth the Raven.md",
     "Spells.md",
     "Session Notes/Session 09 - Old Friends.md",
