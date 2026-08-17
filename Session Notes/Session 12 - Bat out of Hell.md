@@ -17,7 +17,10 @@ summary:: ""
 	- [[Taliesin]] wind walked out
 - [[Rasheen]] teleported us out to tavern
 	- [[Rowan]] pulled a sword on [[Rasheen]]
-	- Rasheen cast mass suggestion
+	- Rasheen cast mass suggestion for us to sit and eat
 	- [[Taliesin]] tried to restrain him as an elephant in the tavern
-	- We got kicke
+	- [[Rasheen]] turned invisible and left
+	- We got kicked out of tavern
+		- [[Tycho]] was charmed and wanted to keep eating and had to be pulled out
+- Left [[Luskan]] to the south and went off the road
 - 
