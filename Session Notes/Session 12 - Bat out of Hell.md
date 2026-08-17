@@ -30,7 +30,10 @@ summary:: ""
 	- Whatever [[Rasheen]] wants us to do
 	- Whatever other party is up to in [[Waterdeep]]
 * Divination questions
-	* Druette doesn't 
+	* Druette doesn't have intent toward hostility if we don't initialize hostility
 	* Rakshasas
 		* Originated from [[Nine Hells]]
-		* 
+		* Upon death they can return to material plane to hunt down those that killed them
+		* Have magical immunity
+		* Innate spellcasters
+		* Masters of disguise
