@@ -23,4 +23,9 @@ summary:: ""
 	- We got kicked out of tavern
 		- [[Tycho]] was charmed and wanted to keep eating and had to be pulled out
 - Left [[Luskan]] to the south and went off the road
-- 
+- Quests
+	- [[Gryff Quickfoot]] rescue
+	- Talk to [[Dreuette of the Raven]]
+	- [[Kiirian]] knows of [[Zhentarim]] hideout to the south
+	- Whatever [[Rasheen]] wants us to do
+	- Whatever other party is up to in [[Waterdeep]]
