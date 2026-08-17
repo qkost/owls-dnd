@@ -15,4 +15,9 @@ summary:: ""
 		- [[Taliesin]] drank it and took a ton of damage
 		- Said we needed to kill the dragon before drinking it (we were unworthy)
 	- [[Taliesin]] wind walked out
-- [[Rasheen]] teleported us out
+- [[Rasheen]] teleported us out to tavern
+	- [[Rowan]] pulled a sword on [[Rasheen]]
+	- Rasheen cast mass suggestion
+	- [[Taliesin]] tried to restrain him as an elephant in the tavern
+	- We got kicke
+- 
