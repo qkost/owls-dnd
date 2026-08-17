@@ -29,3 +29,8 @@ summary:: ""
 	- [[Kiirian]] knows of [[Zhentarim]] hideout to the south
 	- Whatever [[Rasheen]] wants us to do
 	- Whatever other party is up to in [[Waterdeep]]
+* Divination questions
+	* Druette doesn't 
+	* Rakshasas
+		* Originated from [[Nine Hells]]
+		* 

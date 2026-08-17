@@ -10,7 +10,7 @@
 	- [x] 1
 	- [x] 2
 	- [x] 3
-	- [ ] 4
+	- [x] 4
 - [ ] Arcane Recovery (Long Rest)
 - [ ] Phantasmal Creatures (Long Rest)
 	- [ ] Summon Beast (2nd Level)

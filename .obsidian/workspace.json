@@ -127,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -303,12 +303,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "defd2139fa22c8c4",
+  "active": "a185a93daafed99e",
   "lastOpenFiles": [
+    "Resources.md",
     "Session Notes/Session 12 - Bat out of Hell.md",
     "Session Notes/Session 10 - Quoth the Raven.md",
     "NPCS/Rasheen.md",
-    "Resources.md",
     "Session Notes/Session 11 - Dragons in Dungeons.md",
     "PCs/Taliesin.md",
     "PCs/Kiirian.md",
