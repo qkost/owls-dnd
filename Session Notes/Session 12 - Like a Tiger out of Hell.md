@@ -1,6 +1,6 @@
 ```
 date:: 2026-08-16
-summary:: ""
+summary:: "In desparation, the party fled from Vasicar and were returned to Luskan by Rasheen. After a confrontation in the tavern, Rasheen left and the party collected themselves to determine what happens next. They decided to talk with Druette of the Raven in her tower in Luskan to see if they can free Gryff."
 ```
 
 ## TODO
