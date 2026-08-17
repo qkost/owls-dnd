@@ -1,5 +1,5 @@
 ```
-date:: 2026-XX-XX
+date:: 2026-08-16
 summary:: ""
 ```
 
@@ -43,4 +43,10 @@ summary:: ""
 	* Guards let us pass
 	* Obsidian doors open -- sitting on [[Kiirian]]'s shoulders
 	* One of [[Dreuette of the Raven]]'s wizard acolytes greet us
-* 
+* Conference room with obsidian tables
+	* Windows
+	* Fireplace
+	* [[Dreuette of the Raven]]
+	* Two scribes
+	* Two hulking guards
+* Please sit down
