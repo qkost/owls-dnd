@@ -13,3 +13,4 @@
 - Vulnerable to magical piercing damage from good aligned creatures
 - Can cast enchantment magic
 - Can teleport and/or plane shift
+- Spell save DC of 18

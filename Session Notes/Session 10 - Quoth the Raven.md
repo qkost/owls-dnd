@@ -87,4 +87,4 @@ summary:: "After tense conversations with Druette of the Raven and Rasheen, the 
 	- A creature protects the well -- you will have to defeat it
 	- No puzzles, tricks or traps we will encounter
 	- Dragon comes out of blood
-		- Vasicar, The Bloodbound
+		- [[Vasicar, The Bloodbound]]

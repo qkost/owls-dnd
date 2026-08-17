@@ -9,7 +9,7 @@
 - Lucky
 	- [x] 1
 	- [x] 2
-	- [ ] 3
+	- [x] 3
 	- [ ] 4
 - [ ] Arcane Recovery (Long Rest)
 - [ ] Phantasmal Creatures (Long Rest)
