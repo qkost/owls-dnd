@@ -37,3 +37,10 @@ summary:: ""
 		* Have magical immunity
 		* Innate spellcasters
 		* Masters of disguise
+* Hid sending stone
+* Ride back to [[Luskan]] and go to tower on [[Cutlass Island]]
+* Tower
+	* Guards let us pass
+	* Obsidian doors open -- sitting on [[Kiirian]]'s shoulders
+	* One of [[Dreuette of the Raven]]'s wizard acolytes greet us
+* 
