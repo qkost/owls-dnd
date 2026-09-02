@@ -37,4 +37,4 @@ summary:: ""
 	- Mace of Destruction -- hit a fiend and a chance to outright kill them; willing to loan for more magical artifacts
 - Sending stone
 	- Informed them of what happened
-	- Contacted by Druette of the Raven of Arcane Brotherhood. They are af
+	- Contacted by [[Druette of the Raven]] (Arcane Brotherhood). They will come for the staff. They believe (truthfully) it will bend will of anybody who uses it to evil.
