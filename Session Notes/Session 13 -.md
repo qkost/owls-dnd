@@ -8,3 +8,10 @@ summary:: ""
 ## Recap
 
 ## Notes
+
+### Questions
+
+- Setup
+	- Zone of truth (all failed)
+- [[Dreuette of the Raven]] questions
+	- Did they kill the 
