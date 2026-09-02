@@ -1,6 +1,6 @@
 ```
 date:: 2026-09-01
-summary:: ""
+summary:: "A tense negotio"
 ```
 
 ## TODO
@@ -39,5 +39,5 @@ summary:: ""
 	- Informed them of what happened
 	- Contacted by [[Druette of the Raven]] (Arcane Brotherhood). They will come for the staff. They believe (truthfully) it will bend will of anybody who uses it to evil.
 - [[Karazaran]] had future vision of being a lich -- surrounded by tower; ashen frontier, ordered party to be executed
-
-Misc info [[Astram Cole]] -- [[]]
+- Next session: Stealth mission to [[Neverwinter]]
+- Candidate future mission: Dungeon crawl to [[Arcane Brotherhood]] tower
