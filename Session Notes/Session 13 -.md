@@ -23,4 +23,10 @@ summary:: ""
 	- Who are the [[Sons of Alagondar]]? A: They're carrying out the deeds of a pit fiend from the [[Nine Hells]]?
 	- Any information on how to fight [[Rasheen]]? A: We have to kill them in the [[Nine Hells]] for them to be permanent
 	- Any info on the blood dragon? A: No
+	- Brother is working on behalf of a pit fiend. Uncertain if he made a pact.
+	- Blood war -- ebbs and flows between demons and devils have advantage
+	- Don't care about Alogondar ascending the throne.
+	- Lord Neverember is not aligned with devils
+	- The Lord's Alliance is a puppet of the devils
+	- Arcane Brotherhood collect knowledge/lore to maintain a grip on their subjects
 - 
