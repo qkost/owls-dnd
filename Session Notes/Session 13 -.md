@@ -14,4 +14,10 @@ summary:: ""
 - Setup
 	- Zone of truth (all failed)
 - [[Dreuette of the Raven]] questions
-	- Did they kill the 
+	- Did they kill the lich /name/? A: No
+	- How did they come to possess staff of power? A: [[Avarice]] attacked them and they defended themselves. [[Avarice]] killed him?
+	- Do we know [[Rasheen]]'s true identity? A: He is a rakshasa uncertain his true name
+- Our questions:
+	- Where is [[Rowan]]'s brother? A: In [[Neverwinter]]. Uncertain if he is alive -- but he is walking around
+	- Who are the [[Sons of Alagondar]]? A: They're carrying out the deeds of a pit fiend from the [[Nine Hells]]?
+- 
