@@ -31,7 +31,8 @@ summary:: ""
 	- [[The Lord's Alliance]] is a puppet of the devils
 	- Arcane Brotherhood collect knowledge/lore to maintain a grip on their subjects
 	- Staff was created by [[Iriel Arthis]] -- will bend will to great evil if somebody uses
-
+- Brought out golden mace
+	- Mace of Destruction -- hit a fiend and a chance to outright kill them; willing to loan for more magical artifacts
 
 Deal --
 - Acquire staff of power in exchange for other magical weapons and armor to take on fiends
