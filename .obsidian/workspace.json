@@ -55,8 +55,7 @@
               "title": "Session 13 -"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,11 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e27e5cb6907b3f15",
+  "active": "897061de5b50078c",
   "lastOpenFiles": [
+    "Resources.md",
     "Session Notes/Session 13 -.md",
     "Session Notes/Session 12 - Like a Tiger out of Hell.md",
-    "Resources.md",
     "Session Notes/Session 10 - Quoth the Raven.md",
     "Session Notes/Session 11 - Dragons in Dungeons.md",
     "NPCS/Rasheen.md",
