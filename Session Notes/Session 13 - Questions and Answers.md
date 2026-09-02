@@ -1,6 +1,6 @@
 ```
 date:: 2026-09-01
-summary:: "A tense negotio"
+summary:: "A tense negotiation revealed many answers but posed many more questions. However, the party was successful in negotiating for Gryff's release from the tower."
 ```
 
 ## TODO
@@ -31,7 +31,7 @@ summary:: "A tense negotio"
 	- [[The Lord's Alliance]] is a puppet of the devils - they are pact between all major city states in [[Sword Coast]]
 	- Arcane Brotherhood collect knowledge/lore to maintain a grip on their subjects
 	- Staff was created by [[Iriel Arthis]] -- will bend will to great evil if somebody uses
-- Brought out golden mace
+- Agreed to release [[Gryff Quickfoot]]
 - Deal offer
 	- Acquire staff of power in exchange for other magical weapons and armor to take on fiends
 	- Mace of Destruction -- hit a fiend and a chance to outright kill them; willing to loan for more magical artifacts
