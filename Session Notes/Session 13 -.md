@@ -20,4 +20,5 @@ summary:: ""
 - Our questions:
 	- Where is [[Rowan]]'s brother? A: In [[Neverwinter]]. Uncertain if he is alive -- but he is walking around
 	- Who are the [[Sons of Alagondar]]? A: They're carrying out the deeds of a pit fiend from the [[Nine Hells]]?
+	- Any information on how to fight [[Rasheen]]? A: We have to kill them in the [[Nine Hells]] for them to be permanent
 - 
