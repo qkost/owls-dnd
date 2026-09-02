@@ -27,8 +27,8 @@ summary:: ""
 	- Brother is working on behalf of a pit fiend. Uncertain if he made a pact.
 	- Blood war -- ebbs and flows between demons and devils have advantage
 	- Don't care about Alogondar ascending the throne.
-	- [[Lord Neverember]] is not aligned with devils
-	- [[The Lord's Alliance]] is a puppet of the devils
+	- [[Lord Neverember]] last member of lords alliance not aligned with devils
+	- [[The Lord's Alliance]] is a puppet of the devils - they are pact between all major city states in [[Sword Coast]]
 	- Arcane Brotherhood collect knowledge/lore to maintain a grip on their subjects
 	- Staff was created by [[Iriel Arthis]] -- will bend will to great evil if somebody uses
 - Brought out golden mace
@@ -39,3 +39,5 @@ summary:: ""
 	- Informed them of what happened
 	- Contacted by [[Druette of the Raven]] (Arcane Brotherhood). They will come for the staff. They believe (truthfully) it will bend will of anybody who uses it to evil.
 - [[Karazaran]] had future vision of being a lich -- surrounded by tower; ashen frontier, ordered party to be executed
+
+Misc info [[Astram Cole]] -- [[]]
