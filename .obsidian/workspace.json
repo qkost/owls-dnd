@@ -55,7 +55,8 @@
               "title": "Session 13 -"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,17 +232,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "897061de5b50078c",
+  "active": "c8e3a45766624562",
   "lastOpenFiles": [
+    "PCs/Kiirian.md",
+    "Session Notes/Session 12 - Like a Tiger out of Hell.md",
     "Resources.md",
     "Session Notes/Session 13 -.md",
-    "Session Notes/Session 12 - Like a Tiger out of Hell.md",
     "Session Notes/Session 10 - Quoth the Raven.md",
     "Session Notes/Session 11 - Dragons in Dungeons.md",
     "NPCS/Rasheen.md",
     "Divination Questions.md",
     "PCs/Taliesin.md",
-    "PCs/Kiirian.md",
     "Pictures/jacobi.png",
     "Pictures/20260816202128_1.jpg",
     "Pictures/tycho2.png",
