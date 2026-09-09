@@ -26,5 +26,5 @@ summary:: ""
 		- Doesn't know where [[Lord Neverember]] "Old Daggalt"
 	- Refugees on the way
 	- Earthquakes/tremors
-		- Haven't noticed since Mount Hotenow erupted
-	- 
+		- Haven't noticed since [[Mount Hotenow]] erupted
+- 
