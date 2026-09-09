@@ -24,4 +24,7 @@ summary:: ""
 		- [[Sons of Alagondar]] slowly increasing their number; have [[Lord Neverember]] on their heels
 		- Skirmishes in the streets
 		- Doesn't know where [[Lord Neverember]] "Old Daggalt"
+	- Refugees on the way
+	- Earthquakes/tremors
+		- Haven't noticed since Mount Hotenow erupted
 	- 
