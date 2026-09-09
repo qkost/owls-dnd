@@ -31,4 +31,5 @@ summary:: ""
 - Devil activity started in [[Waterdeep]] ~5 years ago
 - [[Neverwinter]] taken over by [[Lord Neverember]] ~15-20 years ago
 - General populace has good opinion of [[Lord Neverember]]
+- Guards on the road -- bear sigil of [[Lord Neverember]]
 - 
