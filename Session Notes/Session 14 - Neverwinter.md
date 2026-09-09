@@ -36,4 +36,5 @@ summary:: ""
 - Scryed upon on the road
 - [[Castle Ember]] is a ruin -- destroyed in eruption
 - Hall of Justice is where the throne is
-- 
+- Refugees
+	- 
