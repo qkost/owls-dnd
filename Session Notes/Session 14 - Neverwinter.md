@@ -37,4 +37,7 @@ summary:: ""
 - [[Castle Ember]] is a ruin -- destroyed in eruption
 - Hall of Justice is where the throne is
 - Refugees
+	- Warned them about bandits
+- Headed into [[Neverwinter]]
+	- Smoke rising from the city
 	- 
