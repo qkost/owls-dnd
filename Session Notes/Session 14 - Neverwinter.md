@@ -32,4 +32,8 @@ summary:: ""
 - [[Neverwinter]] taken over by [[Lord Neverember]] ~15-20 years ago
 - General populace has good opinion of [[Lord Neverember]]
 - Guards on the road -- bear sigil of [[Lord Neverember]]
+	- Bandits
+- Scryed upon on the road
+- [[Castle Ember]] is a ruin -- destroyed in eruption
+- Hall of Justice is where the throne is
 - 
