@@ -46,4 +46,4 @@ summary:: ""
 		- No hustling and bustling
 		- Sense of anxiety and despair
 	- Most guards have house [[Alagondar]] colors -- recruits look green
-- 
+- Wind Walk & seeming cast for 15 minutes
