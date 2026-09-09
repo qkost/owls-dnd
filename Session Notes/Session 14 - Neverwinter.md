@@ -42,5 +42,8 @@ summary:: ""
 	- Smoke rising from the city
 	- Disguised as [[Rasheen]] & his minions
 	- Piles of bodies -- [[Lord Neverember]] colors, no active fighting
-	- People are out and about -- no hustling and bustling
+	- People are out and about
+		- No hustling and bustling
+		- Sense of anxiety and despair
+	- Most guards have house [[Alagondar]] colors -- recruits look green
 - 
