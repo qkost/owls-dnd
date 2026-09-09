@@ -28,4 +28,7 @@ summary:: ""
 	- Earthquakes/tremors
 		- Haven't noticed since [[Mount Hotenow]] erupted
 		- Chasm in [[Neverwinter]] happened at the same time
+- Devil activity started in [[Waterdeep]] ~5 years ago
+- [[Neverwinter]] taken over by [[Lord Neverember]] ~15-20 years ago
+- General populace has good opinion of [[Lord Neverember]]
 - 
