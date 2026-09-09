@@ -27,4 +27,5 @@ summary:: ""
 	- Refugees on the way
 	- Earthquakes/tremors
 		- Haven't noticed since [[Mount Hotenow]] erupted
+		- Chasm in [[Neverwinter]] happened at the same time
 - 
