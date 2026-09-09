@@ -17,4 +17,11 @@ summary:: ""
 	- Basic overview of each (up to 6)
 	- Some fire and some ice, a variety
 - Traveled southward on phantom steeds
-- 
+- Traveling merchant
+	- "Bad for business"
+	- Rising tensions
+	- Conflict:
+		- [[Sons of Alagondar]] slowly increasing their number; have [[Lord Neverember]] on their heels
+		- Skirmishes in the streets
+		- Doesn't know where [[Lord Neverember]] "Old Daggalt"
+	- 
