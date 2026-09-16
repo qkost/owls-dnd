@@ -26,4 +26,12 @@ summary:: ""
 		- Military camp
 	- [[Sons of Alagondar]] have been here a few days/weeks
 - Royalty reside across river in [[Halls of Justice]]
-- 
+- Main hall
+	- Debris
+	- Soldiers coming through
+	- Military operation w/ makeshift stations
+	- Infirmary
+- Climb stairs
+- Here Rowan's brother's voice
+	- Barking commands -- seems in control
+	- 
