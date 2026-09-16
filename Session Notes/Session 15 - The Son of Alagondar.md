@@ -39,7 +39,11 @@ summary:: ""
 	- Questions by brother to Rasheen
 		- Weren't you supposed to be under the city?
 		- Is everything set to go off?
+		- Where is [[Rowan]]?
+			- Unsurprised he's alive
+			- Thought she was in Icewind Dale
 	- Sitrep
 		- Bridges held by [[Lord Neverember]]
 		- Neverember holds southern half and letting people out of the city
+- [[Rowan]] slipped an inside reference -- drew suspicion
 - 
