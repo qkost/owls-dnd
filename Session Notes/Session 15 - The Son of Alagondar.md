@@ -33,7 +33,7 @@ summary:: ""
 	- Infirmary
 - Climb stairs
 - No obvious devil connection
-- Here Rowan's brother's voice [[Nasher Alagondar]]
+- Here Rowan's brother's voice [[Nashur Alagondar]]
 	- Barking commands -- seems in control
 	- Table with tokens on it (battlemap)
 	- Honor guard
@@ -60,7 +60,7 @@ summary:: ""
 - Recognized our illusion through w/ spectacles
 	- Why are you in league with [[Rasheen]]?
 	- What's going on with [[Lord Neverember]]
-	- Story from [[Nasher Alagondar]]
+	- Story from [[Nashur Alagondar]]
 		- [[Rasheen]] is a necessary evil
 		- If both heirs of the house of [[Alagondar]] are here, we can gain the favor of the people
 - Took us to [[Rowan]]'s room
