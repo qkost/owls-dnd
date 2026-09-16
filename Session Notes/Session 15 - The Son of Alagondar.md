@@ -32,6 +32,14 @@ summary:: ""
 	- Military operation w/ makeshift stations
 	- Infirmary
 - Climb stairs
-- Here Rowan's brother's voice
+- Here Rowan's brother's voice [[Nashir Alagondar]]
 	- Barking commands -- seems in control
-	- 
+	- Table with tokens on it (battlemap)
+	- Honor guard
+	- Questions by brother to Rasheen
+		- Weren't you supposed to be under the city?
+		- Is everything set to go off?
+	- Sitrep
+		- Bridges held by [[Lord Neverember]]
+		- Neverember holds southern half
+- 
