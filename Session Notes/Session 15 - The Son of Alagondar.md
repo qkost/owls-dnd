@@ -32,7 +32,8 @@ summary:: ""
 	- Military operation w/ makeshift stations
 	- Infirmary
 - Climb stairs
-- Here Rowan's brother's voice [[Nashir Alagondar]]
+- No obvious devil connection
+- Here Rowan's brother's voice [[Nasher Alagondar]]
 	- Barking commands -- seems in control
 	- Table with tokens on it (battlemap)
 	- Honor guard
@@ -46,4 +47,11 @@ summary:: ""
 		- Bridges held by [[Lord Neverember]]
 		- Neverember holds southern half and letting people out of the city
 - [[Rowan]] slipped an inside reference -- drew suspicion
-- 
+	- Leaves room
+	- Very suspicious -- began to walk us towards another set of stairs towards third floor w/ honor guard
+- Led us to turret -- looks like his study
+	- [[Lord Neverember]] still has spies around the city
+	- Books
+		- Things written in strange languages
+		- 
+	- 
