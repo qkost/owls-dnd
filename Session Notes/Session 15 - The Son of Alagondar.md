@@ -65,4 +65,3 @@ summary:: ""
 		- If both heirs of the house of [[Alagondar]] are here, we can gain the favor of the people
 - Took us to [[Rowan]]'s room
 	- In ruins -- but restored somewhat to how [[Rowan]] lived when she was here
-	- 
