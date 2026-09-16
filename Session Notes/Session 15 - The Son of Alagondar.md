@@ -11,4 +11,9 @@ summary:: ""
 
 - [[Castle Ember]]
 	- Ruins (like Harrenhall)
-- 
+- Goals
+	- Assess state of brother
+		- Willing?
+		- Controlled?
+		- Goals
+	- High level goals of devils
