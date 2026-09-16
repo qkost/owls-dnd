@@ -43,6 +43,7 @@ summary:: ""
 		- Where is [[Rowan]]?
 			- Unsurprised he's alive
 			- Thought she was in Icewind Dale
+		- Have you honored our contract? Seems to have contract to capture and/or train [[Rowan]]
 	- Sitrep
 		- Bridges held by [[Lord Neverember]]
 		- Neverember holds southern half and letting people out of the city
@@ -53,5 +54,12 @@ summary:: ""
 	- [[Lord Neverember]] still has spies around the city
 	- Books
 		- Things written in strange languages
+		- Devils/demons
+		- Strange demonic creature
+	- Had spectacles see through illusion
+- Recognized our illusion through w/ spectacles
+	- Why are you in league with [[Rasheen]]?
+	- What's going on with [[Lord Neverember]]
+	- Story
+		- [[Rasheen]] is a necessary evil
 		- 
-	- 
