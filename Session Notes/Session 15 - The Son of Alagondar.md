@@ -41,5 +41,5 @@ summary:: ""
 		- Is everything set to go off?
 	- Sitrep
 		- Bridges held by [[Lord Neverember]]
-		- Neverember holds southern half
+		- Neverember holds southern half and letting people out of the city
 - 
