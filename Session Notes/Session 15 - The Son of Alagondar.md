@@ -8,3 +8,7 @@ summary:: ""
 ## Recap
 
 ## Notes
+
+- [[Castle Ember]]
+	- Ruins (like Harrenhall)
+- 

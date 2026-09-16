@@ -35,7 +35,8 @@
               "title": "Session 15 - The Son of Alagondar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "861e5e7fa303b288",
@@ -231,11 +232,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63af00fafd3d2458",
+  "active": "9fc4c35ee9a1f39b",
   "lastOpenFiles": [
+    "Session Notes/Session 14 - True Stripes.md",
     "Resources.md",
     "Session Notes/Session 15 - The Son of Alagondar.md",
-    "Session Notes/Session 14 - True Stripes.md",
     "Session Notes/Session 13 - Questions and Answers.md",
     "NPCS/Astram Cole.md",
     "NPCS/Rasheen.md",
