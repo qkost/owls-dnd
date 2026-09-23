@@ -38,4 +38,9 @@ summary:: ""
 - Magic items for [[Tycho]]
 	- Cloak of protection
 	- +2 weapons -- crossbow
+- Seems like men under [[Nashur Alagondar]] don't know about this scheme
+- Headed SE to the chasm
+	- Dark cloud
+	- Screams
+- Did [[Nashur Alagondar]] already die once? He came very close, doesn't recommend it.
 - 
