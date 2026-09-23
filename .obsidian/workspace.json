@@ -49,8 +49,7 @@
               "title": "Resources"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,14 +225,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c95ebb949d9dacba",
+  "active": "40cede34471f64cb",
   "lastOpenFiles": [
+    "Resources.md",
     "Session Notes/Session 15 - The Son of Alagondar.md",
     "Session Notes/Session 16 - Friend or Foe.md",
     "NPCs/Nashur Alagondar.md",
     "PCs/Rowan.md",
     "Session Notes/Session 14 - True Stripes.md",
-    "Resources.md",
     "Session Notes/Session 13 - Questions and Answers.md",
     "NPCs/Astram Cole.md",
     "NPCs/Rasheen.md",

@@ -1,6 +1,6 @@
 ```
 date:: 2026-09-15
-summary:: ""
+summary:: "We entered Castele Ember in disguise and met with Nashur Alagondar, Rowan's brother, who seemed to be willingly in league with the devils. He uncovered our disguise and Rowan had an uncomfortable reunion with her brother."
 ```
 
 ## TODO
