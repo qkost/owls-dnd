@@ -33,6 +33,8 @@ summary:: ""
 - Armory
 	- Glimmering gold
 	- Ornate armor and such
-	- For [[Rowan]] -- golden plate armor with a cape
-	- 
-- 
+	- For [[Rowan]] -- golden plate armor with a cape with the symbol of [[Neverwinter]] minotaur sigil
+		- +2 plate w/ a cloak of protection
+- Magic items
+	- Cloak of protection
+	- +2 weapons -- crossbow
