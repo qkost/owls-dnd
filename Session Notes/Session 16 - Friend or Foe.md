@@ -39,8 +39,8 @@ summary:: ""
 	- Cloak of protection
 	- +2 weapons -- crossbow
 - Seems like men under [[Nashur Alagondar]] don't know about this scheme
-- Headed SE to the chasm
+- Headed SE part of city (to the chasm)
 	- Dark cloud
 	- Screams
 - Did [[Nashur Alagondar]] already die once? He came very close, doesn't recommend it.
-- 
+- Flying creatures
