@@ -1,6 +1,6 @@
 ```
 date:: 2026-09-22
-summary:: ""
+summary:: "We learned more of Nashur's motivations. Meanwhile Rasheen released demons into the city and Nashur asked for our help in eliminating them with a motivation to look like the heroes of the city. To aid in the fight, we were armed with the royal garb of Neverwinter and Rowan looks like a total badass."
 ```
 
 ## TODO
