@@ -12,7 +12,7 @@ summary:: ""
 ## Notes
 
 - Scrying on [[Nashur Alagondar]]
-	- Toy used for scrying: wooden card knight on a horse (Sir Pource)
+	- Toy used for scrying: wooden card knight on a horse (Sir Pounce)
 	- Talking with advisors/generals about planning
 		- Repositioning them away from eastern side of N. half of city
 		- Getting ready to muster them in front of bridges
@@ -27,4 +27,6 @@ summary:: ""
 - [[Lord Neverember]] closed the chasm
 	- Torn open by earthquakes
 	- Nobody knew origins of creatures -- likely fiends
-- 
+- [[Nashur Alagondar]] 
+	- Wants us to join
+	- 
