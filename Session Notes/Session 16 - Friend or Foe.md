@@ -21,8 +21,10 @@ summary:: ""
 		- "Your majesty" addressing [[Nashur Alagondar]]
 		- [[Lord Neverember]] soldiers are fleeing
 		- Don't advance; wait for [[Nashur Alagondar]]'s order
-		- The chasm
-			- Creatures are coming out
+		- The chasm - creatures are coming out
 	- Things are moving faster than anticipated
 	- "I think [[Rasheen]] has set things into motion a little faster with the knowledge my sister has returned."
+- [[Lord Neverember]] closed the chasm
+	- Torn open by earthquakes
+	- Nobody knew origins of creatures -- likely fiends
 - 
