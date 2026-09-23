@@ -4,7 +4,7 @@ summary:: ""
 ```
 
 ## TODO
-- [ ] Add 
+- [ ] Add +2 to attack for true strike
 ## Recap
 
 - 
@@ -38,3 +38,4 @@ summary:: ""
 - Magic items for [[Tycho]]
 	- Cloak of protection
 	- +2 weapons -- crossbow
+- 
