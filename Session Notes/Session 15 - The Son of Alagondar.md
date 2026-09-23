@@ -1,6 +1,6 @@
 ```
 date:: 2026-09-15
-summary:: "We entered Castele Ember in disguise and met with Nashur Alagondar, Rowan's brother, who seemed to be willingly in league with the devils. He uncovered our disguise and Rowan had an uncomfortable reunion with her brother."
+summary:: "We entered Castle Ember in disguise and met with Nashur Alagondar, Rowan's brother, who seemed to be willingly in league with the devils. He uncovered our disguise and Rowan had an uncomfortable reunion with her brother."
 ```
 
 ## TODO
@@ -9,7 +9,7 @@ summary:: "We entered Castele Ember in disguise and met with Nashur Alagondar, R
 
 ## Notes
 
-- [[Castle Ember]]
+- [[Castle Never]]
 	- Ruins (like Harrenhall)
 - Goals
 	- Assess state of brother

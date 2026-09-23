@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 15 - The Son of Alagondar.md",
+                "file": "Castle Never.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 15 - The Son of Alagondar"
+              "title": "Castle Never"
             }
           },
           {
@@ -225,10 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40cede34471f64cb",
+  "active": "fc9fbbd74d5315d1",
   "lastOpenFiles": [
-    "Resources.md",
+    "Untitled",
     "Session Notes/Session 15 - The Son of Alagondar.md",
+    "Castle Never.md",
+    "Resources.md",
     "Session Notes/Session 16 - Friend or Foe.md",
     "NPCs/Nashur Alagondar.md",
     "PCs/Rowan.md",
@@ -260,9 +262,7 @@
     "NPCs/Gryff Quickfoot.md",
     "Luskan.md",
     "Organizations",
-    "Session Notes/Session 07 - What Comes Next.md",
     "NPCs",
-    "Session Notes/Session 07 - What Comes Next-DESKTOP-JSI4DS4-2.md",
     "Attachments/storm_giant_temple_room.png",
     "Attachments/chamber_with_giant_wards.png",
     "Attachments/kiirian.png",

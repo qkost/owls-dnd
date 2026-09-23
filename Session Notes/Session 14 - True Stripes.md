@@ -34,7 +34,7 @@ summary:: "The party traveled down to Neverwinter and learned more about the cur
 - Guards on the road -- bear sigil of [[Lord Neverember]]
 	- Bandits
 - Scryed upon on the road
-- [[Castle Ember]] is a ruin -- destroyed in eruption
+- [[Castle Never]] is a ruin -- destroyed in eruption
 - Hall of Justice is where the throne is
 - Refugees
 	- Warned them about bandits
