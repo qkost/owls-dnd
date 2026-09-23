@@ -12,7 +12,7 @@ summary:: "We learned more of Nashur's motivations. Meanwhile Rasheen released d
 ## Notes
 
 - Scrying on [[Nashur Alagondar]]
-	- Toy used for scrying: wooden card knight on a horse (Sir Pounce)
+	- Toy used for scrying: wooden  knight on a horse (Sir Pounce)
 	- Talking with advisors/generals about planning
 		- Repositioning them away from eastern side of N. half of city
 		- Getting ready to muster them in front of bridges
