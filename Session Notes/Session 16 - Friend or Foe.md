@@ -4,7 +4,7 @@ summary:: ""
 ```
 
 ## TODO
-- [ ] 
+- [ ] Add 
 ## Recap
 
 - 
@@ -35,6 +35,6 @@ summary:: ""
 	- Ornate armor and such
 	- For [[Rowan]] -- golden plate armor with a cape with the symbol of [[Neverwinter]] minotaur sigil
 		- +2 plate w/ a cloak of protection
-- Magic items
+- Magic items for [[Tycho]]
 	- Cloak of protection
 	- +2 weapons -- crossbow
