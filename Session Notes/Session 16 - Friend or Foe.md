@@ -28,5 +28,11 @@ summary:: ""
 	- Torn open by earthquakes
 	- Nobody knew origins of creatures -- likely fiends
 - [[Nashur Alagondar]] 
-	- Wants us to join
+	- Wants us to join fight the demons
+	- "Even if I was responsible, would you not help those who are innocent?"
+- Armory
+	- Glimmering gold
+	- Ornate armor and such
+	- For [[Rowan]] -- golden plate armor with a cape
 	- 
+- 
