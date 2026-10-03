@@ -11,7 +11,7 @@
 	- [x] 2
 	- [ ] 3
 	- [ ] 4
-- [ ] Arcane Recovery (Long Rest)
+- [x] Arcane Recovery (Long Rest)
 - [ ] Phantasmal Creatures (Long Rest)
 	- [ ] Summon Beast (2nd Level)
 	- [ ] Summon Fey (3rd Level)
