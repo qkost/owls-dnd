@@ -41,7 +41,7 @@
 ## Ring of Spell Storing
 
 
-- Counterspell (3)
+
 
 ## Consumables
 
