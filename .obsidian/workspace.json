@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,11 +240,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df935cd042a7cf76",
+  "active": "17928344a52384df",
   "lastOpenFiles": [
     "Session Notes/Session 16 - Friend or Foe.md",
-    "Session Notes/Session 17 - Demons!.md",
     "Resources.md",
+    "Session Notes/Session 17 - Demons!.md",
     "NPCs/Nashur Alagondar.md",
     "Session Notes/Session 15 - The Son of Alagondar.md",
     "Locations/Castle Never.md",
