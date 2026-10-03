@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e3a1aad6dd15311",
+  "active": "17928344a52384df",
   "lastOpenFiles": [
-    "Session Notes/Session 17 - Demons!.md",
     "Resources.md",
+    "Session Notes/Session 17 - Demons!.md",
     "Session Notes/Session 16 - Friend or Foe.md",
     "NPCs/Nashur Alagondar.md",
     "Session Notes/Session 15 - The Son of Alagondar.md",
