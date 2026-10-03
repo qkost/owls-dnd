@@ -1,6 +1,6 @@
 ```
 date:: 2026-XX-XX
-summary:: "We faced off againsed a Sibriex, who was turning the whole city into demons. "
+summary:: "We faced off againsed a Sibriex, who was turning the whole city into demons. Most of Nashur's honor guard failed, but we took down the demon. As we prepared to face against the leader of the demons, it appeared before us: a powerful balor."
 ```
 
 ## TODO
