@@ -8,7 +8,7 @@
 - [ ] Heroic Inspiration
 - Lucky
 	- [x] 1
-	- [ ] 2
+	- [x] 2
 	- [ ] 3
 	- [ ] 4
 - [ ] Arcane Recovery (Long Rest)
