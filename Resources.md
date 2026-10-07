@@ -11,6 +11,7 @@
 	- [x] 2
 	- [ ] 3
 	- [ ] 4
+	- [ ] 5
 - [x] Arcane Recovery (Long Rest)
 - [x] Illusory Self (Short Rest)
 - [ ] Phantasmal Creatures (Long Rest)
@@ -22,6 +23,9 @@
 	- [ ] 3
 	- [ ] 4
 	- [ ] 5
+- Fey Touched (free castings)
+	- [ ] Command
+	- [ ] Misty Step
 ## Hit Die
 
 - [ ] 1d8 + 3 (7.5)
