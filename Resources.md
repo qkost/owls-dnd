@@ -12,6 +12,7 @@
 	- [ ] 3
 	- [ ] 4
 - [x] Arcane Recovery (Long Rest)
+- [x] Illusory Self (Short Rest)
 - [ ] Phantasmal Creatures (Long Rest)
 	- [ ] Summon Beast (2nd Level)
 	- [ ] Summon Fey (3rd Level)
