@@ -32,4 +32,8 @@ summary:: ""
 		- [[Nashur Alagondar]]: Master
 	- [[Rowan]] saved the city
 		- Talk to [[Lord Neverember]]
-		- 
+		- Rest of [[Sons of Alagondar]] will likely serve [[Rowan]]
+	- Not the good guy
+	- Left behind halberd & armor
+		- Magical +2 weapon
+		- +2 Plate
