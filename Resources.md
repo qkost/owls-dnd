@@ -9,7 +9,7 @@
 - Lucky
 	- [x] 1
 	- [x] 2
-	- [ ] 3
+	- [x] 3
 	- [ ] 4
 	- [ ] 5
 - [x] Arcane Recovery (Long Rest)
