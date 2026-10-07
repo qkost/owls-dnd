@@ -26,4 +26,10 @@ summary:: ""
 	- [[Nashur Alagondar]] is after [[Rowan]]'s soul
 	- Both work for the same master
 	- [[Nashur Alagondar]] outranks [[Rasheen]]
-	- 
+	- [[Nashur Alagondar]] is probably demoted -- we bought time
+	- Who do you work for?
+		- A pit fiend: [[Nim]]: Master of Masters
+		- [[Nashur Alagondar]]: Master
+	- [[Rowan]] saved the city
+		- Talk to [[Lord Neverember]]
+		- 
