@@ -35,7 +35,8 @@
               "title": "Session 18 - You Shall not Pass!"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4158faae0ab99a1d",
@@ -231,12 +232,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e3a1aad6dd15311",
+  "active": "6b6ebff83251961c",
   "lastOpenFiles": [
     "Session Notes/Session 17 - Inner Demons.md",
+    "Resources.md",
     "Session Notes/Session 18 - You Shall not Pass!.md",
     "Session Notes/Session 16 - Friend or Foe.md",
-    "Resources.md",
     "NPCs/Nashur Alagondar.md",
     "Session Notes/Session 15 - The Son of Alagondar.md",
     "Locations/Castle Never.md",
