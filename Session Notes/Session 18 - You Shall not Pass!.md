@@ -1,6 +1,6 @@
 ```
 date:: 2026-10-06
-summary:: ""
+summary:: "We faced off against the great demon balor before being backstabbed by Nashur, who was a devil himself. Nashur nearly killed Rowan and did kill Tycho, but soonafter was slain by Kiirian. Tycho was revived and Rasheen appeared detailing the devilish history of Nashur. Rowan is left with a decision on what to do with Neverwinter."
 ```
 
 ## TODO
@@ -37,3 +37,4 @@ summary:: ""
 	- Left behind halberd & armor
 		- Magical +2 weapon
 		- +2 Plate
+	- [[Rowan]] is likely the de-facto ruler of [[Neverwinter]]
